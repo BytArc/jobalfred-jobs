@@ -2,7 +2,7 @@
 
 Open roles in India at companies headquartered outside India, including global capability centres. The company list is curated in config/companies.yml.
 
-**1095 open roles.** Refreshed 05 Nov 2026, 22:42 UTC. Closed roles are removed on every run.
+**1095 open roles.** Refreshed 05 Nov 2026, 22:52 UTC. Closed roles are removed on every run.
 
 [Fill applications with JobAlfred](https://jobalfred.com/go/?list=india-gcc&job=banner&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=banner): a free Chrome extension that fills the form from your CV. You check every answer and press Submit yourself.
 

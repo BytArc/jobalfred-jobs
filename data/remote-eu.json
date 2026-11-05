@@ -1,7 +1,7 @@
 {
  "list": "remote-eu",
  "title": "Remote roles in the EU",
- "built": "2026-11-05T22:42:41+00:00",
+ "built": "2026-11-05T22:52:16+00:00",
  "count": 1048,
  "licence": "CC-BY-4.0",
  "source_note": "Built only from official public job-board APIs: Greenhouse Job Board API, Lever Postings API and Ashby public job posting API. Job descriptions are read for matching and are not stored.",
@@ -2093,20 +2093,6 @@
    "scope": "Spain"
   },
   {
-   "id": "greenhouse-affirm-8043027003",
-   "company": "Affirm",
-   "title": "Senior Manager, Software Engineering (Card)",
-   "location": "Remote Spain; Remote Poland",
-   "posted": "2026-10-27",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
-   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8043027003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8043027003",
-   "scope": "Spain"
-  },
-  {
    "id": "greenhouse-affirm-8043029003",
    "company": "Affirm",
    "title": "Senior Manager, Software Engineering (Card)",
@@ -2121,18 +2107,32 @@
    "scope": "Poland"
   },
   {
-   "id": "greenhouse-affirm-8013440003",
+   "id": "greenhouse-affirm-8043027003",
    "company": "Affirm",
-   "title": "Manager, Machine Learning Engineering, Checkout",
-   "location": "Remote UK; Remote Poland; Remote Spain",
+   "title": "Senior Manager, Software Engineering (Card)",
+   "location": "Remote Spain; Remote Poland",
    "posted": "2026-10-27",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8013440003",
-   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8013440003",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8013440003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8013440003",
-   "scope": "Poland"
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
+   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8043027003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8043027003",
+   "scope": "Spain"
+  },
+  {
+   "id": "greenhouse-affirm-8041432003",
+   "company": "Affirm",
+   "title": "Manager, Machine Learning Engineering, Checkout",
+   "location": "Remote Spain; Remote Poland; Remote UK",
+   "posted": "2026-10-27",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8041432003",
+   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8041432003",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8041432003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8041432003",
+   "scope": "Spain"
   },
   {
    "id": "greenhouse-affirm-8041423003",
@@ -2149,18 +2149,18 @@
    "scope": "Poland"
   },
   {
-   "id": "greenhouse-affirm-8041432003",
+   "id": "greenhouse-affirm-8013440003",
    "company": "Affirm",
    "title": "Manager, Machine Learning Engineering, Checkout",
-   "location": "Remote Spain; Remote Poland; Remote UK",
+   "location": "Remote UK; Remote Poland; Remote Spain",
    "posted": "2026-10-27",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8041432003",
-   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8041432003",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8041432003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8041432003",
-   "scope": "Spain"
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8013440003",
+   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8013440003",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8013440003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8013440003",
+   "scope": "Poland"
   },
   {
    "id": "lever-veeva-f387c7d3-74af-4afc-ba9f-d9cf8ac60ee7",
@@ -11165,20 +11165,6 @@
    "scope": "Poland"
   },
   {
-   "id": "greenhouse-affirm-7820446003",
-   "company": "Affirm",
-   "title": "Senior Software Engineer, Backend (Card Integrations and Payments Experience)",
-   "location": "Remote Spain; Remote Poland",
-   "posted": "2026-08-05",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003",
-   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-7820446003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-7820446003",
-   "scope": "Spain"
-  },
-  {
    "id": "greenhouse-affirm-7820448003",
    "company": "Affirm",
    "title": "Senior Software Engineer, Backend (Card Integrations and Payments Experience)",
@@ -11191,6 +11177,20 @@
    "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7820448003",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-7820448003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-7820448003",
    "scope": "Poland"
+  },
+  {
+   "id": "greenhouse-affirm-7820446003",
+   "company": "Affirm",
+   "title": "Senior Software Engineer, Backend (Card Integrations and Payments Experience)",
+   "location": "Remote Spain; Remote Poland",
+   "posted": "2026-08-05",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003",
+   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-7820446003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-7820446003",
+   "scope": "Spain"
   },
   {
    "id": "greenhouse-moniepoint-4944062101",

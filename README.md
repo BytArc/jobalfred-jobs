@@ -9,7 +9,7 @@ Free lists of open roles, built from employers' own public job boards and refres
 Every Apply link goes straight to the employer. Closed roles are removed on every run.
 
 <!-- counts:start -->
-Refreshed 05 Nov 2026, 22:42 UTC.
+Refreshed 05 Nov 2026, 22:52 UTC.
 
 | List | Open roles | Table | JSON |
 | --- | --- | --- | --- |

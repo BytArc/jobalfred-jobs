@@ -2,7 +2,7 @@
 
 Open roles located in Portugal, on site, hybrid or remote.
 
-**370 open roles.** Refreshed 05 Nov 2026, 22:42 UTC. Closed roles are removed on every run.
+**370 open roles.** Refreshed 05 Nov 2026, 22:52 UTC. Closed roles are removed on every run.
 
 [Fill applications with JobAlfred](https://jobalfred.com/go/?list=portugal&job=banner&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=banner): a free Chrome extension that fills the form from your CV. You check every answer and press Submit yourself.
 
