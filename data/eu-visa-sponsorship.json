@@ -1,7 +1,7 @@
 {
  "list": "eu-visa-sponsorship",
  "title": "EU roles that state visa sponsorship",
- "built": "2026-11-05T22:27:14+00:00",
+ "built": "2026-11-05T22:29:37+00:00",
  "count": 29,
  "licence": "CC-BY-4.0",
  "source_note": "Built only from official public job-board APIs: Greenhouse Job Board API, Lever Postings API and Ashby public job posting API. Job descriptions are read for matching and are not stored.",

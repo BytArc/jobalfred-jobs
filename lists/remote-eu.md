@@ -2,7 +2,7 @@
 
 Roles the employer marks as remote that name the EU, Europe, EMEA or an EU country. The Stated scope column shows which. EMEA and Europe are wider than the EU, and employers may still limit which countries they hire in, so check before you apply.
 
-**1048 open roles.** Refreshed 05 Nov 2026, 22:27 UTC. Closed roles are removed on every run.
+**1048 open roles.** Refreshed 05 Nov 2026, 22:29 UTC. Closed roles are removed on every run.
 
 [Fill applications with JobAlfred](https://chromewebstore.google.com/detail/kbmpbhhhdojgjnpfpnoehafmllfejgll?utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=banner): a free Chrome extension that fills the form from your CV. You check every answer and press Submit yourself.
 
