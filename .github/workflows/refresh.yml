@@ -1,0 +1,42 @@
+# Refreshes every list once a day. It runs only in BytArc/jobalfred-jobs, so forks stay quiet.
+name: Refresh job lists
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.repository == 'BytArc/jobalfred-jobs'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Test the rules
+        run: python -m unittest discover -s tests -t .
+      - name: Rebuild the lists
+        run: python -m jobalfred_jobs
+      - name: Commit when something changed
+        run: |
+          git add data lists README.md
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh job lists"
+          git push

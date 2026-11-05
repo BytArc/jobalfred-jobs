@@ -1,0 +1,49 @@
+# Public settings only. No secrets belong in this repo.
+brand: JobAlfred
+repo: BytArc/jobalfred-jobs
+site: https://jobalfred.com
+store_url: https://chromewebstore.google.com/detail/kbmpbhhhdojgjnpfpnoehafmllfejgll
+
+# store: Fill links go straight to the Chrome Web Store, with UTM parameters. Works today.
+# go:    Fill links go to jobalfred.com/go, which records the click, then opens the store.
+#        Switch to go only once jobalfred.com/go is live, or every Fill link will be dead.
+install_mode: store
+
+# Roles first posted longer ago than this are left out: they are usually evergreen, not live openings.
+max_age_days: 365
+
+source_note: >-
+  Built only from official public job-board APIs: Greenhouse Job Board API, Lever Postings API and
+  Ashby public job posting API. Job descriptions are read for matching and are not stored.
+
+lists:
+  - key: india
+    slug: india-gcc
+    campaign: india_gcc
+    title: India roles at global companies
+    intro: >-
+      Open roles in India at companies headquartered outside India, including global capability centres.
+      The company list is curated in config/companies.yml.
+  - key: remote_eu
+    slug: remote-eu
+    campaign: remote_eu
+    show_scope: true
+    title: Remote roles in the EU
+    intro: >-
+      Roles the employer marks as remote that name the EU, Europe, EMEA or an EU country. The Stated scope column
+      shows which. EMEA and Europe are wider than the EU, and employers may still limit which
+      countries they hire in, so check before you apply.
+  - key: portugal
+    slug: portugal
+    campaign: portugal
+    title: Roles in Portugal
+    intro: Open roles located in Portugal, on site, hybrid or remote.
+  - key: visa_eu
+    slug: eu-visa-sponsorship
+    campaign: eu_visa
+    show_quote: true
+    title: EU roles that state visa sponsorship
+    intro: >-
+      Roles in the EU-27 whose posting says in plain words that sponsorship is offered, and where that promise
+      covers the role's own country. The UK, Norway and Switzerland are not included. Conditional wording such
+      as "may be available" or "where applicable" is not counted.

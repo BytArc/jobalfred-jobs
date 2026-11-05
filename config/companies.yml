@@ -1,0 +1,1375 @@
+# Curated boards. Every token was checked against the live API on the date below.
+# identity: how we know the board belongs to the company. Greenhouse returns a board name; Lever and
+# Ashby return none, so the company name must appear in the postings. Common words were read by hand.
+# hq is the headquarters country, from general knowledge. The india list leaves out companies
+# headquartered or founded in India, because their offices there are not global capability centres.
+verified_on: "2026-11-05"
+companies:
+  - name: "1Password"
+    ats: ashby
+    token: "1password"
+    hq: "CA"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Abnormal Security"
+    ats: greenhouse
+    token: "abnormalsecurity"
+    hq: "US"
+    identity: "board name: Abnormal"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Adyen"
+    ats: greenhouse
+    token: "adyen"
+    hq: "NL"
+    identity: "board name: Adyen"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Affirm"
+    ats: greenhouse
+    token: "affirm"
+    hq: "US"
+    identity: "board name: Affirm"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Agoda"
+    ats: greenhouse
+    token: "agoda"
+    hq: "TH"
+    identity: "board name: Agoda"
+    lists: [india, remote_eu, portugal]
+  - name: "Airbnb"
+    ats: greenhouse
+    token: "airbnb"
+    hq: "US"
+    identity: "board name: Airbnb"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Airwallex"
+    ats: ashby
+    token: "airwallex"
+    hq: "SG"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Alan"
+    ats: ashby
+    token: "alan"
+    hq: "FR"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Alchemy"
+    ats: ashby
+    token: "alchemy"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Aleph Alpha"
+    ats: ashby
+    token: "alephalpha"
+    hq: "DE"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Algolia"
+    ats: greenhouse
+    token: "algolia"
+    hq: "US"
+    identity: "board name: Algolia"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Amplemarket"
+    ats: greenhouse
+    token: "amplemarket"
+    hq: "US"
+    identity: "board name: Amplemarket"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Amplitude"
+    ats: ashby
+    token: "amplitude"
+    hq: "US"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Anduril"
+    ats: greenhouse
+    token: "andurilindustries"
+    hq: "US"
+    identity: "board name: Anduril Industries"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Anthropic"
+    ats: greenhouse
+    token: "anthropic"
+    hq: "US"
+    identity: "board name: Anthropic"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "AppsFlyer"
+    ats: greenhouse
+    token: "appsflyer"
+    hq: "IL"
+    identity: "board name: AppsFlyer"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Asana"
+    ats: greenhouse
+    token: "asana"
+    hq: "US"
+    identity: "board name: Asana"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Attio"
+    ats: ashby
+    token: "attio"
+    hq: "GB"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Auto1 Group"
+    ats: greenhouse
+    token: "auto1group"
+    hq: "DE"
+    identity: "board name: AUTO1 Group"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Babbel"
+    ats: ashby
+    token: "babbel"
+    hq: "DE"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Back Market"
+    ats: ashby
+    token: "backmarket"
+    hq: "FR"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "BeyondTrust"
+    ats: greenhouse
+    token: "beyondtrust"
+    hq: "US"
+    identity: "board name: BeyondTrust"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Binance"
+    ats: greenhouse
+    token: "binance"
+    hq: "MT"
+    identity: "board name: Binance"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "BitGo"
+    ats: greenhouse
+    token: "bitgo"
+    hq: "US"
+    identity: "board name: BitGo"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Bitpanda"
+    ats: greenhouse
+    token: "bitpanda"
+    hq: "AT"
+    identity: "board name: Bitpanda"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "BlaBlaCar"
+    ats: lever
+    token: "blablacar"
+    hq: "FR"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Black Forest Labs"
+    ats: ashby
+    token: "black-forest-labs"
+    hq: "DE"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Box"
+    ats: greenhouse
+    token: "boxinc"
+    hq: "US"
+    identity: "board name: Box"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Braze"
+    ats: greenhouse
+    token: "braze"
+    hq: "US"
+    identity: "board name: Braze"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Bugcrowd"
+    ats: greenhouse
+    token: "bugcrowd"
+    hq: "US"
+    identity: "board name: Bugcrowd"
+    lists: [india, remote_eu, portugal]
+  - name: "Bynder"
+    ats: ashby
+    token: "bynder"
+    hq: "NL"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Cabify"
+    ats: greenhouse
+    token: "cabify"
+    hq: "ES"
+    identity: "board name: Cabify"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Canonical"
+    ats: greenhouse
+    token: "canonical"
+    hq: "GB"
+    identity: "board name: Canonical"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Carta"
+    ats: greenhouse
+    token: "carta"
+    hq: "US"
+    identity: "board name: Carta"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Celonis"
+    ats: greenhouse
+    token: "celonis"
+    hq: "DE"
+    identity: "board name: Celonis"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Chainguard"
+    ats: greenhouse
+    token: "chainguard"
+    hq: "US"
+    identity: "board name: Chainguard"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Cleo"
+    ats: greenhouse
+    token: "cleo"
+    hq: "US"
+    identity: "board name: Cleo (US) "
+    lists: [india, remote_eu, portugal]
+  - name: "Cloudflare"
+    ats: greenhouse
+    token: "cloudflare"
+    hq: "US"
+    identity: "board name: Cloudflare"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Cockroach Labs"
+    ats: greenhouse
+    token: "cockroachlabs"
+    hq: "US"
+    identity: "board name: Cockroach Labs"
+    lists: [india, remote_eu, portugal]
+  - name: "Cognite"
+    ats: greenhouse
+    token: "cognite"
+    hq: "NO"
+    identity: "board name: Cognite - AI for Industry"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Cohere"
+    ats: ashby
+    token: "cohere"
+    hq: "CA"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Coinbase"
+    ats: greenhouse
+    token: "coinbase"
+    hq: "US"
+    identity: "board name: Coinbase"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Commvault"
+    ats: greenhouse
+    token: "commvault"
+    hq: "US"
+    identity: "board name: Commvault"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Consensys"
+    ats: ashby
+    token: "consensys"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Contentful"
+    ats: greenhouse
+    token: "contentful"
+    hq: "DE"
+    identity: "board name: Contentful"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Contentsquare"
+    ats: lever
+    token: "contentsquare"
+    hq: "FR"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Corti"
+    ats: ashby
+    token: "corti"
+    hq: "DK"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Coursera"
+    ats: greenhouse
+    token: "coursera"
+    hq: "US"
+    identity: "board name: Coursera"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Databricks"
+    ats: greenhouse
+    token: "databricks"
+    hq: "US"
+    identity: "board name: Databricks"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Datadog"
+    ats: greenhouse
+    token: "datadog"
+    hq: "US"
+    identity: "board name: Datadog"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Dataiku"
+    ats: greenhouse
+    token: "dataiku"
+    hq: "US"
+    identity: "board name: Dataiku"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Decagon"
+    ats: ashby
+    token: "decagon"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Deepgram"
+    ats: ashby
+    token: "deepgram"
+    hq: "US"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "DeepL"
+    ats: ashby
+    token: "deepl"
+    hq: "DE"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Delinea"
+    ats: ashby
+    token: "delinea"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Deliveroo"
+    ats: ashby
+    token: "deliveroo"
+    hq: "GB"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Deliveroo"
+    ats: greenhouse
+    token: "deliveroo"
+    hq: "GB"
+    identity: "board name: Deliveroo "
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Docker"
+    ats: ashby
+    token: "docker"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Doctolib"
+    ats: ashby
+    token: "doctolib"
+    hq: "FR"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "DoorDash"
+    ats: greenhouse
+    token: "doordashusa"
+    hq: "US"
+    identity: "board name: DoorDash USA"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Drata"
+    ats: ashby
+    token: "drata"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Dremio"
+    ats: greenhouse
+    token: "dremio"
+    hq: "US"
+    identity: "board name: Dremio"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Dropbox"
+    ats: greenhouse
+    token: "dropbox"
+    hq: "US"
+    identity: "board name: Dropbox"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Druva"
+    ats: greenhouse
+    token: "druva"
+    hq: "US"
+    identity: "board name: Druva"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Duolingo"
+    ats: greenhouse
+    token: "duolingo"
+    hq: "US"
+    identity: "board name: Duolingo"
+    lists: [india, remote_eu, portugal]
+  - name: "EBANX"
+    ats: greenhouse
+    token: "ebanx"
+    hq: "BR"
+    identity: "board name: EBANX"
+    lists: [india, remote_eu, portugal]
+  - name: "Elastic"
+    ats: greenhouse
+    token: "elastic"
+    hq: "US"
+    identity: "board name: Elastic"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "ElevenLabs"
+    ats: ashby
+    token: "elevenlabs"
+    hq: "US"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Epidemic Sound"
+    ats: ashby
+    token: "epidemic-sound"
+    hq: "SE"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Everpure (Pure Storage)"
+    ats: greenhouse
+    token: "purestorage"
+    hq: "US"
+    identity: "board name: Everpure"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Farfetch"
+    ats: ashby
+    token: "farfetch"
+    hq: "PT"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Farfetch"
+    ats: lever
+    token: "farfetch"
+    hq: "PT"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Feedzai"
+    ats: greenhouse
+    token: "feedzai"
+    hq: "PT"
+    identity: "board name: Feedzai"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Fever"
+    ats: greenhouse
+    token: "feverup"
+    hq: "ES"
+    identity: "board name: FeverUp"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Figma"
+    ats: greenhouse
+    token: "figma"
+    hq: "US"
+    identity: "board name: Figma"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Fin (Intercom)"
+    ats: greenhouse
+    token: "intercom"
+    hq: "IE"
+    identity: "board name: Fin"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Fireblocks"
+    ats: greenhouse
+    token: "fireblocks"
+    hq: "US"
+    identity: "board name: Fireblocks"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Five9"
+    ats: greenhouse
+    token: "five9"
+    hq: "US"
+    identity: "board name: Five9"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Fivetran"
+    ats: greenhouse
+    token: "fivetran"
+    hq: "US"
+    identity: "board name: Fivetran "
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Flatiron Health"
+    ats: greenhouse
+    token: "flatironhealth"
+    hq: "US"
+    identity: "board name: Flatiron Health"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Flix"
+    ats: greenhouse
+    token: "flix"
+    hq: "DE"
+    identity: "board name: Flix"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Flow Traders"
+    ats: greenhouse
+    token: "flowtraders"
+    hq: "NL"
+    identity: "board name: Flow Traders"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Forto"
+    ats: ashby
+    token: "forto"
+    hq: "DE"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "GetYourGuide"
+    ats: greenhouse
+    token: "getyourguide"
+    hq: "DE"
+    identity: "board name: GetYourGuide"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "GitLab"
+    ats: greenhouse
+    token: "gitlab"
+    hq: "US"
+    identity: "board name: GitLab"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Glean"
+    ats: greenhouse
+    token: "gleanwork"
+    hq: "US"
+    identity: "board name: Glean"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "GoCardless"
+    ats: greenhouse
+    token: "gocardless"
+    hq: "GB"
+    identity: "board name: GoCardless"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Gong"
+    ats: greenhouse
+    token: "gongio"
+    hq: "US"
+    identity: "board name: Gong.io"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Grafana Labs"
+    ats: greenhouse
+    token: "grafanalabs"
+    hq: "SE"
+    identity: "board name: Grafana Labs"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "HackerOne"
+    ats: ashby
+    token: "hackerone"
+    hq: "US"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal]
+  - name: "HelloFresh"
+    ats: greenhouse
+    token: "hellofresh"
+    hq: "DE"
+    identity: "board name: HelloFresh"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Helsing"
+    ats: greenhouse
+    token: "helsing"
+    hq: "DE"
+    identity: "board name: Helsing"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Huntress"
+    ats: greenhouse
+    token: "huntress"
+    hq: "US"
+    identity: "board name: Huntress Labs"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Illumio"
+    ats: ashby
+    token: "illumio"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "IMC Trading"
+    ats: greenhouse
+    token: "imc"
+    hq: "NL"
+    identity: "board name: IMC"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Jobandtalent"
+    ats: lever
+    token: "jobandtalent"
+    hq: "ES"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Jumia"
+    ats: greenhouse
+    token: "jumia"
+    hq: "DE"
+    identity: "board name: Jumia"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Kiwi.com"
+    ats: ashby
+    token: "kiwi-com"
+    hq: "CZ"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Klaviyo"
+    ats: greenhouse
+    token: "klaviyo"
+    hq: "US"
+    identity: "board name: Klaviyo"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Komodo Health"
+    ats: greenhouse
+    token: "komodohealth"
+    hq: "US"
+    identity: "board name: Komodo Health"
+    lists: [india, remote_eu, portugal]
+  - name: "Kong"
+    ats: ashby
+    token: "kong"
+    hq: "US"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "LangChain"
+    ats: ashby
+    token: "langchain"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Ledger"
+    ats: ashby
+    token: "ledger"
+    hq: "FR"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Legora"
+    ats: ashby
+    token: "legora"
+    hq: "SE"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Lemonade"
+    ats: ashby
+    token: "lemonade"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Lendable"
+    ats: ashby
+    token: "lendable"
+    hq: "GB"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Linear"
+    ats: ashby
+    token: "linear"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "LivePerson"
+    ats: greenhouse
+    token: "liveperson"
+    hq: "US"
+    identity: "board name: LivePerson"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Lodgify"
+    ats: lever
+    token: "lodgify"
+    hq: "ES"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Lokalise"
+    ats: greenhouse
+    token: "lokalise"
+    hq: "NL"
+    identity: "board name: Lokalise"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Lovable"
+    ats: ashby
+    token: "lovable"
+    hq: "SE"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Lucid Motors"
+    ats: greenhouse
+    token: "lucidmotors"
+    hq: "US"
+    identity: "board name: Lucid Motors"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Lyra Health"
+    ats: lever
+    token: "lyrahealth"
+    hq: "US"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Mapbox"
+    ats: ashby
+    token: "mapbox"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Mentimeter"
+    ats: greenhouse
+    token: "mentimeter"
+    hq: "SE"
+    identity: "board name: Mentimeter"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "MetaMask"
+    ats: greenhouse
+    token: "consensys"
+    hq: "US"
+    identity: "board name: MetaMask"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Mirakl"
+    ats: greenhouse
+    token: "mirakl"
+    hq: "FR"
+    identity: "board name: Mirakl"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Miro"
+    ats: ashby
+    token: "miro"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Miro"
+    ats: greenhouse
+    token: "realtimeboardglobal"
+    hq: "US"
+    identity: "board name: Miro"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Mixpanel"
+    ats: greenhouse
+    token: "mixpanel"
+    hq: "US"
+    identity: "board name: Mixpanel"
+    lists: [india, remote_eu, portugal]
+  - name: "Mollie"
+    ats: ashby
+    token: "mollie"
+    hq: "NL"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "MongoDB"
+    ats: greenhouse
+    token: "mongodb"
+    hq: "US"
+    identity: "board name: MongoDB"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Moniepoint"
+    ats: greenhouse
+    token: "moniepoint"
+    hq: "GB"
+    identity: "board name: Moniepoint"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Monzo"
+    ats: greenhouse
+    token: "monzo"
+    hq: "GB"
+    identity: "board name: Monzo"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Mozilla"
+    ats: greenhouse
+    token: "mozilla"
+    hq: "US"
+    identity: "board name: Mozilla"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "N26"
+    ats: greenhouse
+    token: "n26"
+    hq: "DE"
+    identity: "board name: N26"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "n8n"
+    ats: ashby
+    token: "n8n"
+    hq: "DE"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Neo4j"
+    ats: greenhouse
+    token: "neo4j"
+    hq: "US"
+    identity: "board name: Neo4j"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Netskope"
+    ats: greenhouse
+    token: "netskope"
+    hq: "US"
+    identity: "board name: Netskope"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "New Relic"
+    ats: greenhouse
+    token: "newrelic"
+    hq: "US"
+    identity: "board name: New Relic"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Nextiva"
+    ats: greenhouse
+    token: "nextiva"
+    hq: "US"
+    identity: "board name: Nextiva"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Nium"
+    ats: lever
+    token: "nium"
+    hq: "SG"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal]
+  - name: "Notion"
+    ats: ashby
+    token: "notion"
+    hq: "US"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Nozomi Networks"
+    ats: greenhouse
+    token: "nozominetworks"
+    hq: "US"
+    identity: "board name: Nozomi Networks"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Nubank"
+    ats: ashby
+    token: "nubank"
+    hq: "BR"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Offchain Labs"
+    ats: lever
+    token: "offchainlabs"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Okta"
+    ats: greenhouse
+    token: "okta"
+    hq: "US"
+    identity: "board name: Okta"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "OKX"
+    ats: greenhouse
+    token: "okx"
+    hq: "SC"
+    identity: "board name: OKX"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "OpenAI"
+    ats: ashby
+    token: "openai"
+    hq: "US"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Oura"
+    ats: greenhouse
+    token: "oura"
+    hq: "FI"
+    identity: "board name: ŌURA"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Paddle"
+    ats: ashby
+    token: "paddle"
+    hq: "GB"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "PagerDuty"
+    ats: greenhouse
+    token: "pagerduty"
+    hq: "US"
+    identity: "board name: PagerDuty"
+    lists: [remote_eu, portugal]
+  - name: "Palantir"
+    ats: lever
+    token: "palantir"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Parloa"
+    ats: ashby
+    token: "parloa"
+    hq: "DE"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Parloa"
+    ats: greenhouse
+    token: "parloa"
+    hq: "DE"
+    identity: "board name: Parloa"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Payoneer"
+    ats: greenhouse
+    token: "payoneer"
+    hq: "US"
+    identity: "board name: Payoneer"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Perplexity"
+    ats: ashby
+    token: "perplexity"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Photoroom"
+    ats: ashby
+    token: "photoroom"
+    hq: "FR"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Pigment"
+    ats: lever
+    token: "pigment"
+    hq: "FR"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Ping Identity"
+    ats: greenhouse
+    token: "pingidentity"
+    hq: "US"
+    identity: "board name: Ping Identity"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Pinterest"
+    ats: greenhouse
+    token: "pinterest"
+    hq: "US"
+    identity: "board name: Pinterest"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "PlanetScale"
+    ats: greenhouse
+    token: "planetscale"
+    hq: "US"
+    identity: "board name: PlanetScale"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Pleo"
+    ats: ashby
+    token: "pleo"
+    hq: "DK"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Polygon Labs"
+    ats: ashby
+    token: "polygon-labs"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Qonto"
+    ats: ashby
+    token: "qonto"
+    hq: "FR"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Qualtrics"
+    ats: greenhouse
+    token: "qualtrics"
+    hq: "US"
+    identity: "board name: Qualtrics"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Raisin"
+    ats: greenhouse
+    token: "raisin"
+    hq: "DE"
+    identity: "board name: Raisin"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Ramp"
+    ats: ashby
+    token: "ramp"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Reddit"
+    ats: greenhouse
+    token: "reddit"
+    hq: "US"
+    identity: "board name: Reddit"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Redis"
+    ats: ashby
+    token: "redis"
+    hq: "US"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Resend"
+    ats: ashby
+    token: "resend"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Riot Games"
+    ats: greenhouse
+    token: "riotgames"
+    hq: "US"
+    identity: "board name: Riot Games"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Ripple"
+    ats: greenhouse
+    token: "ripple"
+    hq: "US"
+    identity: "board name: Ripple "
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Robinhood"
+    ats: greenhouse
+    token: "robinhood"
+    hq: "US"
+    identity: "board name: Robinhood"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Roblox"
+    ats: greenhouse
+    token: "roblox"
+    hq: "US"
+    identity: "board name: Roblox"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Rohlik"
+    ats: ashby
+    token: "rohlik"
+    hq: "CZ"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Rubrik"
+    ats: greenhouse
+    token: "rubrik"
+    hq: "US"
+    identity: "board name: Rubrik Job Board"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Samsara"
+    ats: greenhouse
+    token: "samsara"
+    hq: "US"
+    identity: "board name: Samsara"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Saviynt"
+    ats: lever
+    token: "saviynt"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Scale AI"
+    ats: greenhouse
+    token: "scaleai"
+    hq: "US"
+    identity: "board name: Scale AI"
+    lists: [india, remote_eu, portugal]
+  - name: "Scandit"
+    ats: greenhouse
+    token: "scandit"
+    hq: "CH"
+    identity: "board name: Scandit"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "SentinelOne"
+    ats: greenhouse
+    token: "sentinellabs"
+    hq: "US"
+    identity: "board name: SentinelOne"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Sierra"
+    ats: ashby
+    token: "sierra"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "SingleStore"
+    ats: greenhouse
+    token: "singlestore"
+    hq: "US"
+    identity: "board name: SingleStore"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Sitecore"
+    ats: ashby
+    token: "sitecore"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Smartly.io"
+    ats: greenhouse
+    token: "smartlyio"
+    hq: "FI"
+    identity: "board name: Smartly"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Snowflake"
+    ats: ashby
+    token: "snowflake"
+    hq: "US"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Snyk"
+    ats: ashby
+    token: "snyk"
+    hq: "GB"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Sonar"
+    ats: lever
+    token: "sonarsource"
+    hq: "CH"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Sophos"
+    ats: lever
+    token: "sophos"
+    hq: "GB"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Spotify"
+    ats: lever
+    token: "spotify"
+    hq: "SE"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Sprout Social"
+    ats: greenhouse
+    token: "sproutsocial"
+    hq: "US"
+    identity: "board name: Sprout Social"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Squarespace"
+    ats: greenhouse
+    token: "squarespace"
+    hq: "US"
+    identity: "board name: Squarespace"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Starburst"
+    ats: greenhouse
+    token: "starburst"
+    hq: "US"
+    identity: "board name: Starburst"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Stripe"
+    ats: greenhouse
+    token: "stripe"
+    hq: "US"
+    identity: "board name: Stripe"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Sumo Logic"
+    ats: greenhouse
+    token: "sumologic"
+    hq: "US"
+    identity: "board name: Sumo Logic"
+    lists: [india, remote_eu, portugal]
+  - name: "SumUp"
+    ats: greenhouse
+    token: "sumup"
+    hq: "GB"
+    identity: "board name: SumUp"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Supabase"
+    ats: ashby
+    token: "supabase"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Swile"
+    ats: lever
+    token: "swile"
+    hq: "FR"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Sword Health"
+    ats: greenhouse
+    token: "swordhealth"
+    hq: "PT"
+    identity: "board name: Sword"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Synthesia"
+    ats: ashby
+    token: "synthesia"
+    hq: "GB"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Sysdig"
+    ats: lever
+    token: "sysdig"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Tanium"
+    ats: greenhouse
+    token: "tanium"
+    hq: "US"
+    identity: "board name: Tanium"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Tekion"
+    ats: ashby
+    token: "tekion"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal]
+  - name: "Temporal"
+    ats: ashby
+    token: "temporal"
+    hq: "US"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Thought Machine"
+    ats: ashby
+    token: "thought-machine"
+    hq: "GB"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Thunes"
+    ats: greenhouse
+    token: "thunes"
+    hq: "SG"
+    identity: "board name: Thunes"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Tide"
+    ats: greenhouse
+    token: "tide"
+    hq: "GB"
+    identity: "board name: Careers at Tide"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Tinybird"
+    ats: lever
+    token: "tinybird"
+    hq: "ES"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Toast"
+    ats: greenhouse
+    token: "toast"
+    hq: "US"
+    identity: "board name: Toast"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "TomTom"
+    ats: lever-eu
+    token: "tomtom"
+    hq: "NL"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Tower Research Capital"
+    ats: greenhouse
+    token: "towerresearchcapital"
+    hq: "US"
+    identity: "board name: Tower Research Capital"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Trade Republic"
+    ats: greenhouse
+    token: "traderepublicbank"
+    hq: "DE"
+    identity: "board name: Trade Republic"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "TravelPerk"
+    ats: ashby
+    token: "perk"
+    hq: "ES"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Trivago"
+    ats: greenhouse
+    token: "trivago"
+    hq: "DE"
+    identity: "board name: trivago"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Trustly"
+    ats: ashby
+    token: "trustly"
+    hq: "SE"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Twilio"
+    ats: greenhouse
+    token: "twilio"
+    hq: "US"
+    identity: "board name: Twilio"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Typeform"
+    ats: greenhouse
+    token: "typeform"
+    hq: "ES"
+    identity: "board name: Typeform"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Vanta"
+    ats: ashby
+    token: "vanta"
+    hq: "US"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Vectra AI"
+    ats: greenhouse
+    token: "vectranetworks"
+    hq: "US"
+    identity: "board name: Vectra"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Veeva"
+    ats: lever
+    token: "veeva"
+    hq: "US"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Vercel"
+    ats: greenhouse
+    token: "vercel"
+    hq: "US"
+    identity: "board name: Vercel"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Veriff"
+    ats: greenhouse
+    token: "veriff"
+    hq: "EE"
+    identity: "board name: Veriff"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Vestiaire Collective"
+    ats: lever
+    token: "vestiairecollective"
+    hq: "FR"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Wallapop"
+    ats: greenhouse
+    token: "wallapop"
+    hq: "ES"
+    identity: "board name: Wallapop"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Waymo"
+    ats: greenhouse
+    token: "waymo"
+    hq: "US"
+    identity: "board name: Waymo"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Wayve"
+    ats: ashby
+    token: "wayve"
+    hq: "GB"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Wiz"
+    ats: greenhouse
+    token: "wizinc"
+    hq: "US"
+    identity: "board name: Wiz, Inc."
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Wolt"
+    ats: greenhouse
+    token: "wolt"
+    hq: "FI"
+    identity: "board name: Wolt - English"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Wrike"
+    ats: greenhouse
+    token: "wrike"
+    hq: "US"
+    identity: "board name: Wrike"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Yext"
+    ats: greenhouse
+    token: "yext"
+    hq: "US"
+    identity: "board name: Yext"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Yugabyte"
+    ats: greenhouse
+    token: "yugabyte"
+    hq: "US"
+    identity: "board name: YugabyteDB"
+    lists: [remote_eu, portugal]
+  - name: "Yuno"
+    ats: lever
+    token: "yuno"
+    hq: "US"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Zapier"
+    ats: ashby
+    token: "zapier"
+    hq: "US"
+    identity: "name in postings"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Zego"
+    ats: ashby
+    token: "zego"
+    hq: "GB"
+    identity: "name in postings"
+    lists: [remote_eu, portugal, visa_eu]
+  - name: "Zocdoc"
+    ats: greenhouse
+    token: "zocdoc"
+    hq: "US"
+    identity: "board name: Zocdoc"
+    lists: [india, remote_eu, portugal]
+  - name: "Zscaler"
+    ats: greenhouse
+    token: "zscaler"
+    hq: "US"
+    identity: "board name: Zscaler"
+    lists: [india, remote_eu, portugal, visa_eu]
+  - name: "Zuora"
+    ats: greenhouse
+    token: "zuora"
+    hq: "US"
+    identity: "board name: Zuora"
+    lists: [india, remote_eu, portugal, visa_eu]
