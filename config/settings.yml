@@ -7,7 +7,7 @@ store_url: https://chromewebstore.google.com/detail/kbmpbhhhdojgjnpfpnoehafmllfe
 # store: Fill links go straight to the Chrome Web Store, with UTM parameters. Works today.
 # go:    Fill links go to jobalfred.com/go, which records the click, then opens the store.
 #        Switch to go only once jobalfred.com/go is live, or every Fill link will be dead.
-install_mode: store
+install_mode: go
 
 # Roles first posted longer ago than this are left out: they are usually evergreen, not live openings.
 max_age_days: 365

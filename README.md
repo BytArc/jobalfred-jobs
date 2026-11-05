@@ -9,7 +9,7 @@ Free lists of open roles, built from employers' own public job boards and refres
 Every Apply link goes straight to the employer. Closed roles are removed on every run.
 
 <!-- counts:start -->
-Refreshed 05 Nov 2026, 22:29 UTC.
+Refreshed 05 Nov 2026, 22:42 UTC.
 
 | List | Open roles | Table | JSON |
 | --- | --- | --- | --- |
@@ -65,7 +65,7 @@ So these lists show only part of what a company has open. Many large employers h
 
 **Freshness.** Rows come from the live APIs on every run, so a role that leaves a board leaves the list. Roles first posted more than a year ago are left out, because they are usually evergreen. If a board fails, its rows are kept for up to 3 days. If more than 30% of boards fail, the run stops and nothing changes.
 
-**Links.** Apply links carry UTM parameters and no redirect, so the address you see is the employer's own. The employer may see that the visit came from JobAlfred.
+**Links.** Apply links go straight to the employer: the same address, with no redirect and no tracking added.
 
 ## Use the data
 
