@@ -48,6 +48,8 @@ def table_md(spec: dict, jobs: list[dict], built: str, settings: dict) -> str:
     lines = [f"# {spec['title']}", "", spec["intro"], ""]
     if spec.get("show_quote"):
         lines += [f"> {DISCLAIMER}", ""]
+    search = f"https://jobalfred.com/jobs/?utm_source=github&utm_medium=job_list&utm_campaign={spec['campaign']}"
+    lines += [f"**Looking for more? [Search over 1.5 million jobs on jobalfred.com]({search}).**", ""]
     lines += [f"**{len(jobs)} open roles.** Refreshed {built}. Closed roles are removed on every run.", "",
               f"[Fill applications with JobAlfred]({banner}): a free Chrome extension that fills the form from "
               "your CV. You check every answer and press Submit yourself.", ""]

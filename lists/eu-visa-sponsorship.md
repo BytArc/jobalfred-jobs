@@ -4,6 +4,8 @@ Roles in the EU-27 whose posting says in plain words that sponsorship is offered
 
 > **Please confirm before you rely on this.** A posting saying it offers sponsorship is not a guarantee. Each row here quotes a posting that says so in its own words; JobAlfred never infers sponsorship and cannot see an employer's current policy. Confirm with the employer in writing that sponsorship applies to your role, your nationality and your country, before you resign, move or pay for anything. This is not immigration advice.
 
+**Looking for more? [Search over 1.5 million jobs on jobalfred.com](https://jobalfred.com/jobs/?utm_source=github&utm_medium=job_list&utm_campaign=eu_visa).**
+
 **29 open roles.** Refreshed 06 Nov 2026, 12:56 UTC. Closed roles are removed on every run.
 
 [Fill applications with JobAlfred](https://jobalfred.com/go/?list=eu-visa-sponsorship&job=banner&utm_source=github&utm_medium=job_list&utm_campaign=eu_visa&utm_content=banner): a free Chrome extension that fills the form from your CV. You check every answer and press Submit yourself.
