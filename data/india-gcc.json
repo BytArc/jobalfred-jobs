@@ -1,11 +1,258 @@
 {
  "list": "india-gcc",
  "title": "India roles at global companies",
- "built": "2026-11-05T22:52:16+00:00",
- "count": 1095,
+ "built": "2026-11-06T10:58:49+00:00",
+ "count": 1106,
  "licence": "CC-BY-4.0",
  "source_note": "Built only from official public job-board APIs: Greenhouse Job Board API, Lever Postings API and Ashby public job posting API. Job descriptions are read for matching and are not stored.",
  "jobs": [
+  {
+   "id": "greenhouse-zscaler-5275401007",
+   "company": "Zscaler",
+   "title": "Staff Technical Enablement Consultant",
+   "location": "Bangalore, IND; Bangalore, IND; Bangalore, IND",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5275401007",
+   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5275401007",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-zscaler-5275401007&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-zscaler-5275401007"
+  },
+  {
+   "id": "greenhouse-zscaler-5279071007",
+   "company": "Zscaler",
+   "title": "Manager, Software Development Engineering",
+   "location": "Bangalore, IND",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5279071007",
+   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5279071007",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-zscaler-5279071007&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-zscaler-5279071007"
+  },
+  {
+   "id": "greenhouse-zscaler-5283496007",
+   "company": "Zscaler",
+   "title": "Creative Specialist - Content & Graphic Design",
+   "location": "Bangalore, IND",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283496007",
+   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5283496007",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-zscaler-5283496007&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-zscaler-5283496007"
+  },
+  {
+   "id": "greenhouse-twilio-8355801",
+   "company": "Twilio",
+   "title": "Phone Numbers Operations Specialist 2",
+   "location": "Remote - India",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8355801",
+   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8355801",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-twilio-8355801&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-twilio-8355801"
+  },
+  {
+   "id": "greenhouse-twilio-8355804",
+   "company": "Twilio",
+   "title": "Onboarding Operations Specialist 1",
+   "location": "Remote - India",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8355804",
+   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8355804",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-twilio-8355804&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-twilio-8355804"
+  },
+  {
+   "id": "greenhouse-toast-8345739",
+   "company": "Toast",
+   "title": "Staff Software Engineer, Applied AI",
+   "location": "Bengaluru, Karnataka, India",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8345739",
+   "apply_url": "https://careers.toasttab.com/jobs?gh_jid=8345739",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-toast-8345739&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-toast-8345739"
+  },
+  {
+   "id": "greenhouse-toast-8345741",
+   "company": "Toast",
+   "title": "Senior Software Engineer",
+   "location": "Bangalore; Bengaluru, Karnataka, India",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8345741",
+   "apply_url": "https://careers.toasttab.com/jobs?gh_jid=8345741",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-toast-8345741&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-toast-8345741"
+  },
+  {
+   "id": "greenhouse-toast-8358223",
+   "company": "Toast",
+   "title": "Manager, Customer Care - Kitchen",
+   "location": "Chennai; Chennai, Tamil Nadu, India",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8358223",
+   "apply_url": "https://careers.toasttab.com/jobs?gh_jid=8358223",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-toast-8358223&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-toast-8358223"
+  },
+  {
+   "id": "greenhouse-tide-8197416003",
+   "company": "Tide",
+   "title": "Staff Mobile Engineer (Engineer, Mobile - 5)",
+   "location": "India, Bengaluru; India, Delhi NCR; India, Hyderabad; India",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/tide/jobs/8197416003",
+   "apply_url": "https://job-boards.greenhouse.io/tide/jobs/8197416003",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-tide-8197416003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-tide-8197416003"
+  },
+  {
+   "id": "greenhouse-tide-8197483003",
+   "company": "Tide",
+   "title": "Engineering Manager, Payment Services",
+   "location": "India, Delhi NCR; Bengaluru; Delhi; Hyderabad",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/tide/jobs/8197483003",
+   "apply_url": "https://job-boards.greenhouse.io/tide/jobs/8197483003",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-tide-8197483003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-tide-8197483003"
+  },
+  {
+   "id": "greenhouse-tide-8197482003",
+   "company": "Tide",
+   "title": "Engineering Manager, Payment Services",
+   "location": "India, Hyderabad; Bengaluru; Delhi; Hyderabad",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/tide/jobs/8197482003",
+   "apply_url": "https://job-boards.greenhouse.io/tide/jobs/8197482003",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-tide-8197482003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-tide-8197482003"
+  },
+  {
+   "id": "ashby-redis-ff937e95-aa8e-4f41-a8a1-11da9de029c8",
+   "company": "Redis",
+   "title": "Site Reliability Engineer",
+   "location": "India",
+   "posted": "2026-11-06",
+   "posted_kind": "published",
+   "ats": "ashby",
+   "first_seen": "2026-11-06",
+   "url": "https://jobs.ashbyhq.com/redis/ff937e95-aa8e-4f41-a8a1-11da9de029c8",
+   "apply_url": "https://jobs.ashbyhq.com/redis/ff937e95-aa8e-4f41-a8a1-11da9de029c8",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=ashby-redis-ff937e95-aa8e-4f41-a8a1-11da9de029c8&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=ashby-redis-ff937e95-aa8e-4f41-a8a1-11da9de029c8"
+  },
+  {
+   "id": "greenhouse-mongodb-8234586",
+   "company": "MongoDB",
+   "title": "Lead, Technical Services Engineer - Partners",
+   "location": "Bengaluru; Bengaluru, Karnataka, India",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8234586",
+   "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8234586",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-mongodb-8234586&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-mongodb-8234586"
+  },
+  {
+   "id": "greenhouse-flix-8932957002",
+   "company": "Flix",
+   "title": "Monetisation Operations Associate -Gurugram (Contractual)",
+   "location": "Gurugram; Gurugram, Haryana, India",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://flix.careers/job/8932957002?gh_jid=8932957002",
+   "apply_url": "https://flix.careers/job/8932957002?gh_jid=8932957002",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-flix-8932957002&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-flix-8932957002"
+  },
+  {
+   "id": "greenhouse-flix-8932955002",
+   "company": "Flix",
+   "title": "Business Development Associate -Gurugram (Contractual)",
+   "location": "Gurugram; Gurugram, Haryana, India",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://flix.careers/job/8932955002?gh_jid=8932955002",
+   "apply_url": "https://flix.careers/job/8932955002?gh_jid=8932955002",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-flix-8932955002&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-flix-8932955002"
+  },
+  {
+   "id": "greenhouse-purestorage-8337315",
+   "company": "Everpure (Pure Storage)",
+   "title": "Member of Technical Staff",
+   "location": "Bangalore, India; Office - India (Bangalore - Prestige Dynasty Phase 2)",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8337315",
+   "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8337315",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8337315&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8337315"
+  },
+  {
+   "id": "greenhouse-cloudflare-8354632",
+   "company": "Cloudflare",
+   "title": "Principal HR - APJC Benefits and Program Manager",
+   "location": "Hybrid; Remote India",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8354632?gh_jid=8354632",
+   "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8354632?gh_jid=8354632",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-cloudflare-8354632&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-cloudflare-8354632"
+  },
+  {
+   "id": "greenhouse-cloudflare-8354692",
+   "company": "Cloudflare",
+   "title": "HR Operations Specialist",
+   "location": "Hybrid; Remote India",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8354692?gh_jid=8354692",
+   "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8354692?gh_jid=8354692",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-cloudflare-8354692&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-cloudflare-8354692"
+  },
+  {
+   "id": "greenhouse-airbnb-8220091",
+   "company": "Airbnb",
+   "title": "Senior Manager, Quality",
+   "location": "Gurugram, India",
+   "posted": "2026-11-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://careers.airbnb.com/positions/8220091?gh_jid=8220091",
+   "apply_url": "https://careers.airbnb.com/positions/8220091?gh_jid=8220091",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-airbnb-8220091&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-airbnb-8220091"
+  },
   {
    "id": "greenhouse-zscaler-5263579007",
    "company": "Zscaler",
@@ -46,17 +293,17 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-twilio-8028473&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-twilio-8028473"
   },
   {
-   "id": "greenhouse-twilio-8346263",
+   "id": "greenhouse-twilio-8334053",
    "company": "Twilio",
    "title": "Phone Number specialist 1",
    "location": "Remote - India",
    "posted": "2026-11-05",
    "posted_kind": "first_published",
    "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/twilio/jobs/8346263",
-   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8346263",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-twilio-8346263&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-twilio-8346263"
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8334053",
+   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8334053",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-twilio-8334053&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-twilio-8334053"
   },
   {
    "id": "greenhouse-tide-8047018003",
@@ -176,6 +423,19 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-moniepoint-5028342101&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-moniepoint-5028342101"
   },
   {
+   "id": "greenhouse-mongodb-8328780",
+   "company": "MongoDB",
+   "title": "Senior Data Analyst",
+   "location": "Gurugram; Gurugram, Haryana, India",
+   "posted": "2026-11-05",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8328780",
+   "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8328780",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-mongodb-8328780&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-mongodb-8328780"
+  },
+  {
    "id": "greenhouse-elastic-8289153",
    "company": "Elastic",
    "title": "Coordinator, Marketing Operations",
@@ -187,6 +447,19 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8289153&gh_jid=8289153",
    "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8289153&gh_jid=8289153",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-elastic-8289153&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-elastic-8289153"
+  },
+  {
+   "id": "greenhouse-binance-5025665101",
+   "company": "Binance",
+   "title": "Policy & Change Management Analyst - (12-Month Contract)",
+   "location": "Bahrain; India; United Arab Emirates; United Arab Emirates",
+   "posted": "2026-11-05",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5025665101",
+   "apply_url": "https://job-boards.eu.greenhouse.io/binance/jobs/5025665101",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-binance-5025665101&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-binance-5025665101"
   },
   {
    "id": "greenhouse-zscaler-5279075007",
@@ -319,6 +592,19 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-rubrik-8345283&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-rubrik-8345283"
   },
   {
+   "id": "greenhouse-roblox-8331413",
+   "company": "Roblox",
+   "title": "Moderation Escalation Specialist",
+   "location": "Gurugram, Haryana, India",
+   "posted": "2026-11-04",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
+   "apply_url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-roblox-8331413&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-roblox-8331413"
+  },
+  {
    "id": "greenhouse-payoneer-8303800",
    "company": "Payoneer",
    "title": "Senior Business Operation Manager",
@@ -343,19 +629,6 @@
    "url": "https://www.okta.com/company/careers/opportunity/8351641?gh_jid=8351641",
    "apply_url": "https://www.okta.com/company/careers/opportunity/8351641?gh_jid=8351641",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-okta-8351641&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-okta-8351641"
-  },
-  {
-   "id": "greenhouse-newrelic-5440703008",
-   "company": "New Relic",
-   "title": "Technical Support Engineer",
-   "location": "Bangalore, India; Bangalore",
-   "posted": "2026-11-04",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/newrelic/jobs/5440703008",
-   "apply_url": "https://job-boards.greenhouse.io/newrelic/jobs/5440703008",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-newrelic-5440703008&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-newrelic-5440703008"
   },
   {
    "id": "greenhouse-netskope-8352188",
@@ -605,6 +878,19 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-zscaler-5267221007&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-zscaler-5267221007"
   },
   {
+   "id": "greenhouse-zscaler-5253935007",
+   "company": "Zscaler",
+   "title": "Senior Staff Software Development Engineer",
+   "location": "Bangalore, IND",
+   "posted": "2026-11-03",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5253935007",
+   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5253935007",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-zscaler-5253935007&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-zscaler-5253935007"
+  },
+  {
    "id": "greenhouse-zscaler-5276906007",
    "company": "Zscaler",
    "title": "Account Executive- Public Sector",
@@ -670,19 +956,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=ashby-snowflake-2ca11f48-cd2f-4fb6-ba1c-e67ff35b89ce&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=ashby-snowflake-2ca11f48-cd2f-4fb6-ba1c-e67ff35b89ce"
   },
   {
-   "id": "greenhouse-roblox-8327882",
-   "company": "Roblox",
-   "title": "Moderation Escalation Specialist",
-   "location": "Gurugram, Haryana, India",
-   "posted": "2026-11-03",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
-   "apply_url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-roblox-8327882&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-roblox-8327882"
-  },
-  {
    "id": "ashby-notion-3339493a-ee21-49f3-ab09-e1f8ba8f1b92",
    "company": "Notion",
    "title": "Product Support Specialist",
@@ -735,17 +1008,17 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-gitlab-8905402002&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-gitlab-8905402002"
   },
   {
-   "id": "greenhouse-purestorage-8330275",
+   "id": "greenhouse-purestorage-8330285",
    "company": "Everpure (Pure Storage)",
    "title": "ServiceNow Platform Support",
    "location": "Bangalore, India; India",
    "posted": "2026-11-03",
    "posted_kind": "first_published",
    "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8330275",
-   "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8330275",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8330275&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8330275"
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8330285",
+   "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8330285",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8330285&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8330285"
   },
   {
    "id": "greenhouse-coinbase-8335618",
@@ -902,6 +1175,32 @@
    "url": "https://job-boards.greenhouse.io/yext/jobs/8337870",
    "apply_url": "https://job-boards.greenhouse.io/yext/jobs/8337870",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-yext-8337870&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-yext-8337870"
+  },
+  {
+   "id": "greenhouse-twilio-8319434",
+   "company": "Twilio",
+   "title": "Staff, Software Engineer (L4)",
+   "location": "Remote - India",
+   "posted": "2026-11-02",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8319434",
+   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8319434",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-twilio-8319434&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-twilio-8319434"
+  },
+  {
+   "id": "greenhouse-twilio-8319386",
+   "company": "Twilio",
+   "title": "Software Engineer (L3)",
+   "location": "Remote - India",
+   "posted": "2026-11-02",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8319386",
+   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8319386",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-twilio-8319386&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-twilio-8319386"
   },
   {
    "id": "greenhouse-twilio-8319388",
@@ -1619,6 +1918,19 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-okta-8260950&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-okta-8260950"
   },
   {
+   "id": "greenhouse-mongodb-8229848",
+   "company": "MongoDB",
+   "title": "Senior Software Engineer",
+   "location": "Gurugram; Gurugram, Haryana, India",
+   "posted": "2026-10-29",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8229848",
+   "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8229848",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-mongodb-8229848&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-mongodb-8229848"
+  },
+  {
    "id": "greenhouse-mongodb-8300391",
    "company": "MongoDB",
    "title": "Senior Manager, Accounting",
@@ -1697,19 +2009,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-databricks-8922730002&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-databricks-8922730002"
   },
   {
-   "id": "greenhouse-zscaler-5267726007",
-   "company": "Zscaler",
-   "title": "Senior Staff Software Development Engineer",
-   "location": "Bangalore, IND",
-   "posted": "2026-10-28",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5267726007",
-   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5267726007",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-zscaler-5267726007&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-zscaler-5267726007"
-  },
-  {
    "id": "greenhouse-zscaler-5272058007",
    "company": "Zscaler",
    "title": "Senior Sales Engineer - Majors",
@@ -1749,19 +2048,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=lever-yuno-7e626ff0-7b47-4888-8d65-d92dcaf4f651&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=lever-yuno-7e626ff0-7b47-4888-8d65-d92dcaf4f651"
   },
   {
-   "id": "greenhouse-tide-8047177003",
-   "company": "Tide",
-   "title": "Head of Product, Credit Outcome",
-   "location": "India, Delhi NCR; Hyderabad",
-   "posted": "2026-10-28",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/tide/jobs/8047177003",
-   "apply_url": "https://job-boards.greenhouse.io/tide/jobs/8047177003",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-tide-8047177003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-tide-8047177003"
-  },
-  {
    "id": "greenhouse-tide-8047176003",
    "company": "Tide",
    "title": "Head of Product, Credit Outcome",
@@ -1773,6 +2059,19 @@
    "url": "https://job-boards.greenhouse.io/tide/jobs/8047176003",
    "apply_url": "https://job-boards.greenhouse.io/tide/jobs/8047176003",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-tide-8047176003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-tide-8047176003"
+  },
+  {
+   "id": "greenhouse-tide-8047177003",
+   "company": "Tide",
+   "title": "Head of Product, Credit Outcome",
+   "location": "India, Delhi NCR; Hyderabad",
+   "posted": "2026-10-28",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/tide/jobs/8047177003",
+   "apply_url": "https://job-boards.greenhouse.io/tide/jobs/8047177003",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-tide-8047177003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-tide-8047177003"
   },
   {
    "id": "greenhouse-sumologic-8288761",
@@ -2189,19 +2488,6 @@
    "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/5017181101",
    "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/5017181101",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-moniepoint-5017181101&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-moniepoint-5017181101"
-  },
-  {
-   "id": "greenhouse-mongodb-8323897",
-   "company": "MongoDB",
-   "title": "Senior Software Engineer",
-   "location": "Gurugram; Gurugram, Haryana, India",
-   "posted": "2026-10-27",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=8323897",
-   "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8323897",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-mongodb-8323897&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-mongodb-8323897"
   },
   {
    "id": "ashby-kong-18c59e96-348f-4dda-adfc-974416d624ca",
@@ -3595,30 +3881,17 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-zscaler-5263584007&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-zscaler-5263584007"
   },
   {
-   "id": "greenhouse-zscaler-5253927007",
+   "id": "greenhouse-zscaler-5253929007",
    "company": "Zscaler",
    "title": "Sr. Staff Software Development Engineer",
    "location": "Bangalore, IND",
    "posted": "2026-10-15",
    "posted_kind": "first_published",
    "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5253927007",
-   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5253927007",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-zscaler-5253927007&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-zscaler-5253927007"
-  },
-  {
-   "id": "greenhouse-zscaler-5210715007",
-   "company": "Zscaler",
-   "title": "Senior Services Architect",
-   "location": "Bangalore, IND; Mohali, IND; Pune, IND",
-   "posted": "2026-10-15",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5210715007",
-   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5210715007",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-zscaler-5210715007&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-zscaler-5210715007"
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5253929007",
+   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5253929007",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-zscaler-5253929007&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-zscaler-5253929007"
   },
   {
    "id": "lever-veeva-5252c7ed-1285-4869-92cb-3509dd98a9ac",
@@ -3764,19 +4037,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-gitlab-8878486002&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-gitlab-8878486002"
   },
   {
-   "id": "greenhouse-five9-6225165004",
-   "company": "Five9",
-   "title": "Senior Ironclad CLM Solution Architect and Workflow Developer",
-   "location": "India, Bengaluru (Hybrid); India",
-   "posted": "2026-10-15",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://www.five9.com/about/careers/job-detail?gh_jid=6225165004",
-   "apply_url": "https://www.five9.com/about/careers/job-detail?gh_jid=6225165004",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-five9-6225165004&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-five9-6225165004"
-  },
-  {
    "id": "greenhouse-five9-6225160004",
    "company": "Five9",
    "title": "Senior Ironclad CLM Solution Architect and Workflow Developer",
@@ -3788,6 +4048,19 @@
    "url": "https://www.five9.com/about/careers/job-detail?gh_jid=6225160004",
    "apply_url": "https://www.five9.com/about/careers/job-detail?gh_jid=6225160004",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-five9-6225160004&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-five9-6225160004"
+  },
+  {
+   "id": "greenhouse-five9-6225165004",
+   "company": "Five9",
+   "title": "Senior Ironclad CLM Solution Architect and Workflow Developer",
+   "location": "India, Bengaluru (Hybrid); India",
+   "posted": "2026-10-15",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://www.five9.com/about/careers/job-detail?gh_jid=6225165004",
+   "apply_url": "https://www.five9.com/about/careers/job-detail?gh_jid=6225165004",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-five9-6225165004&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-five9-6225165004"
   },
   {
    "id": "ashby-elevenlabs-a571b8e4-8176-4e31-aab6-2287ee810236",
@@ -4206,6 +4479,19 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-fivetran-7818366003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-fivetran-7818366003"
   },
   {
+   "id": "greenhouse-purestorage-8179437",
+   "company": "Everpure (Pure Storage)",
+   "title": "Senior Security Operations Engineer",
+   "location": "Bangalore, India",
+   "posted": "2026-10-13",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8179437",
+   "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8179437",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8179437&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8179437"
+  },
+  {
    "id": "greenhouse-purestorage-8280337",
    "company": "Everpure (Pure Storage)",
    "title": "Sales Recruiter",
@@ -4217,19 +4503,6 @@
    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8280337",
    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8280337",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8280337&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8280337"
-  },
-  {
-   "id": "greenhouse-cloudflare-8259402",
-   "company": "Cloudflare",
-   "title": "Software Engineer, AI Agents",
-   "location": "In-Office; Remote India",
-   "posted": "2026-10-13",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8259402?gh_jid=8259402",
-   "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8259402?gh_jid=8259402",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-cloudflare-8259402&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-cloudflare-8259402"
   },
   {
    "id": "greenhouse-binance-5002385101",
@@ -4464,6 +4737,19 @@
    "url": "https://jobs.ashbyhq.com/redis/80ff1298-ad88-4d77-95ca-b597f0d18e2b",
    "apply_url": "https://jobs.ashbyhq.com/redis/80ff1298-ad88-4d77-95ca-b597f0d18e2b",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=ashby-redis-80ff1298-ad88-4d77-95ca-b597f0d18e2b&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=ashby-redis-80ff1298-ad88-4d77-95ca-b597f0d18e2b"
+  },
+  {
+   "id": "greenhouse-okta-8266566",
+   "company": "Okta",
+   "title": "Senior Software Engineer",
+   "location": "Bengaluru, India; Bengaluru",
+   "posted": "2026-10-09",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://www.okta.com/company/careers/opportunity/8266566?gh_jid=8266566",
+   "apply_url": "https://www.okta.com/company/careers/opportunity/8266566?gh_jid=8266566",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-okta-8266566&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-okta-8266566"
   },
   {
    "id": "greenhouse-okta-8267278",
@@ -4843,19 +5129,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-elastic-8263255&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-elastic-8263255"
   },
   {
-   "id": "greenhouse-deliveroo-8265192",
-   "company": "Deliveroo",
-   "title": "WFM Planning Manager",
-   "location": "Hyderabad, India",
-   "posted": "2026-10-08",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8265192",
-   "apply_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8265192",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-deliveroo-8265192&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-deliveroo-8265192"
-  },
-  {
    "id": "greenhouse-coinbase-8265918",
    "company": "Coinbase",
    "title": "Senior Engineering Manager",
@@ -4919,19 +5192,6 @@
    "url": "https://jobs.ashbyhq.com/snowflake/a5d35cfe-21f4-495a-9914-3267264477d5",
    "apply_url": "https://jobs.ashbyhq.com/snowflake/a5d35cfe-21f4-495a-9914-3267264477d5",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=ashby-snowflake-a5d35cfe-21f4-495a-9914-3267264477d5&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=ashby-snowflake-a5d35cfe-21f4-495a-9914-3267264477d5"
-  },
-  {
-   "id": "greenhouse-sentinellabs-8008511003",
-   "company": "SentinelOne",
-   "title": "Sales Development Representative (Bangalore)",
-   "location": "India",
-   "posted": "2026-10-07",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://www.sentinelone.com/jobs/?gh_jid=8008511003",
-   "apply_url": "https://www.sentinelone.com/jobs/?gh_jid=8008511003",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-sentinellabs-8008511003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-sentinellabs-8008511003"
   },
   {
    "id": "greenhouse-pingidentity-8867838002",
@@ -5025,19 +5285,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-gleanwork-4739201005&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-gleanwork-4739201005"
   },
   {
-   "id": "greenhouse-fivetran-7787913003",
-   "company": "Fivetran",
-   "title": "Senior Software Engineer",
-   "location": "Bengaluru, Karnataka, India, APAC",
-   "posted": "2026-10-07",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=7787913003",
-   "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7787913003",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-fivetran-7787913003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-fivetran-7787913003"
-  },
-  {
    "id": "greenhouse-celonis-8000413003",
    "company": "Celonis",
    "title": "Chief Of Staff",
@@ -5062,6 +5309,19 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8256331",
    "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8256331",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-waymo-8256331&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-waymo-8256331"
+  },
+  {
+   "id": "greenhouse-twilio-8236865",
+   "company": "Twilio",
+   "title": "Staff Software Engineer (L4)",
+   "location": "Remote - India",
+   "posted": "2026-10-06",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8236865",
+   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8236865",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-twilio-8236865&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-twilio-8236865"
   },
   {
    "id": "greenhouse-tide-8014190003",
@@ -5413,6 +5673,19 @@
    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8255397",
    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8255397",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8255397&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8255397"
+  },
+  {
+   "id": "greenhouse-purestorage-8242551",
+   "company": "Everpure (Pure Storage)",
+   "title": "MTS - Performance Engineering",
+   "location": "Bangalore, India; Office - India (Bangalore - Prestige Dynasty Phase 2)",
+   "posted": "2026-10-05",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8242551",
+   "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8242551",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8242551&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8242551"
   },
   {
    "id": "greenhouse-elastic-8111756",
@@ -5896,19 +6169,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-okta-8242227&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-okta-8242227"
   },
   {
-   "id": "greenhouse-okta-8236504",
-   "company": "Okta",
-   "title": "Staff Software Engineer",
-   "location": "Bengaluru, India; Bengaluru",
-   "posted": "2026-09-30",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://www.okta.com/company/careers/opportunity/8236504?gh_jid=8236504",
-   "apply_url": "https://www.okta.com/company/careers/opportunity/8236504?gh_jid=8236504",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-okta-8236504&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-okta-8236504"
-  },
-  {
    "id": "greenhouse-okta-8242975",
    "company": "Okta",
    "title": "Staff Site Reliability Engineer",
@@ -5976,7 +6236,7 @@
   {
    "id": "greenhouse-mongodb-8238617",
    "company": "MongoDB",
-   "title": "Associate TSE II",
+   "title": "Associate TSE",
    "location": "Gurugram; Gurugram, Haryana, India",
    "posted": "2026-09-30",
    "posted_kind": "first_published",
@@ -6156,6 +6416,32 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-moniepoint-4989846101&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-moniepoint-4989846101"
   },
   {
+   "id": "greenhouse-mongodb-8206794",
+   "company": "MongoDB",
+   "title": "Staff Engineer",
+   "location": "Gurugram; Gurugram, Haryana, India",
+   "posted": "2026-09-29",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8206794",
+   "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8206794",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-mongodb-8206794&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-mongodb-8206794"
+  },
+  {
+   "id": "greenhouse-mongodb-8239047",
+   "company": "MongoDB",
+   "title": "Software Engineer 3",
+   "location": "Gurugram; Gurugram, Haryana, India",
+   "posted": "2026-09-29",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8239047",
+   "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8239047",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-mongodb-8239047&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-mongodb-8239047"
+  },
+  {
    "id": "greenhouse-mongodb-8201554",
    "company": "MongoDB",
    "title": "Senior Specialist, EMEA Payroll",
@@ -6180,19 +6466,6 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8178900",
    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8178900",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-mongodb-8178900&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-mongodb-8178900"
-  },
-  {
-   "id": "greenhouse-mongodb-8224590",
-   "company": "MongoDB",
-   "title": "Senior Data Analyst",
-   "location": "Gurugram; Gurugram, Haryana, India",
-   "posted": "2026-09-29",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=8224590",
-   "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8224590",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-mongodb-8224590&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-mongodb-8224590"
   },
   {
    "id": "greenhouse-mongodb-8238623",
@@ -6271,6 +6544,19 @@
    "url": "https://www.fivetran.com/careers/job?gh_jid=7999076003",
    "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7999076003",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-fivetran-7999076003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-fivetran-7999076003"
+  },
+  {
+   "id": "greenhouse-purestorage-8170887",
+   "company": "Everpure (Pure Storage)",
+   "title": "Member of Technical Staff - FlashArray",
+   "location": "Bangalore, India; Office - India (Bangalore - Prestige Dynasty Phase 2)",
+   "posted": "2026-09-29",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8170887",
+   "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8170887",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8170887&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8170887"
   },
   {
    "id": "greenhouse-elastic-8237463",
@@ -6403,17 +6689,17 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-gleanwork-4737533005&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-gleanwork-4737533005"
   },
   {
-   "id": "greenhouse-purestorage-8207184",
+   "id": "greenhouse-purestorage-8207255",
    "company": "Everpure (Pure Storage)",
    "title": "Member of Technical Staff, Kernel",
    "location": "Bangalore, India; Office - India (Bangalore - Prestige Dynasty Phase 2)",
    "posted": "2026-09-28",
    "posted_kind": "first_published",
    "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8207184",
-   "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8207184",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8207184&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8207184"
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8207255",
+   "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8207255",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8207255&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8207255"
   },
   {
    "id": "greenhouse-purestorage-8210205",
@@ -6726,6 +7012,19 @@
    "url": "https://boards.greenhouse.io/neo4j/jobs/4716229006?gh_jid=4716229006",
    "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4716229006?gh_jid=4716229006",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-neo4j-4716229006&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-neo4j-4716229006"
+  },
+  {
+   "id": "greenhouse-mongodb-8205430",
+   "company": "MongoDB",
+   "title": "Associate TSE II",
+   "location": "Bengaluru; Bengaluru, Karnataka, India",
+   "posted": "2026-09-24",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8205430",
+   "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8205430",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-mongodb-8205430&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-mongodb-8205430"
   },
   {
    "id": "greenhouse-gitlab-8781299002",
@@ -7118,19 +7417,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-commvault-5417104008&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-commvault-5417104008"
   },
   {
-   "id": "greenhouse-cognite-4941497101",
-   "company": "Cognite",
-   "title": "Senior Solutions Architect",
-   "location": "India (Bengaluru)",
-   "posted": "2026-09-22",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.eu.greenhouse.io/cognite/jobs/4941497101",
-   "apply_url": "https://job-boards.eu.greenhouse.io/cognite/jobs/4941497101",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-cognite-4941497101&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-cognite-4941497101"
-  },
-  {
    "id": "greenhouse-cognite-4957202101",
    "company": "Cognite",
    "title": "Senior Solution Architect",
@@ -7183,19 +7469,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-zocdoc-8213942&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-zocdoc-8213942"
   },
   {
-   "id": "greenhouse-tide-8000356003",
-   "company": "Tide",
-   "title": "Senior Product Analyst",
-   "location": "India, Hyderabad; Hyderabad",
-   "posted": "2026-09-21",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/tide/jobs/8000356003",
-   "apply_url": "https://job-boards.greenhouse.io/tide/jobs/8000356003",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-tide-8000356003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-tide-8000356003"
-  },
-  {
    "id": "greenhouse-tide-8000351003",
    "company": "Tide",
    "title": "Senior Product Analyst",
@@ -7220,6 +7493,19 @@
    "url": "https://job-boards.greenhouse.io/tide/jobs/8000355003",
    "apply_url": "https://job-boards.greenhouse.io/tide/jobs/8000355003",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-tide-8000355003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-tide-8000355003"
+  },
+  {
+   "id": "greenhouse-tide-8000356003",
+   "company": "Tide",
+   "title": "Senior Product Analyst",
+   "location": "India, Hyderabad; Hyderabad",
+   "posted": "2026-09-21",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/tide/jobs/8000356003",
+   "apply_url": "https://job-boards.greenhouse.io/tide/jobs/8000356003",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-tide-8000356003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-tide-8000356003"
   },
   {
    "id": "greenhouse-stripe-8209970",
@@ -7311,19 +7597,6 @@
    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8212843",
    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8212843",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8212843&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8212843"
-  },
-  {
-   "id": "greenhouse-commvault-5424474008",
-   "company": "Commvault",
-   "title": "Senior Inside Sales Engineer",
-   "location": "Bangalore, India",
-   "posted": "2026-09-21",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/commvault/jobs/5424474008",
-   "apply_url": "https://job-boards.greenhouse.io/commvault/jobs/5424474008",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-commvault-5424474008&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-commvault-5424474008"
   },
   {
    "id": "greenhouse-anthropic-5424310008",
@@ -7469,6 +7742,19 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-zscaler-5233066007&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-zscaler-5233066007"
   },
   {
+   "id": "greenhouse-tide-7997915003",
+   "company": "Tide",
+   "title": "Engineering Manager, Payment Services",
+   "location": "India, Bengaluru; Bengaluru; Delhi; Hyderabad",
+   "posted": "2026-09-17",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/tide/jobs/7997915003",
+   "apply_url": "https://job-boards.greenhouse.io/tide/jobs/7997915003",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-tide-7997915003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-tide-7997915003"
+  },
+  {
    "id": "greenhouse-starburst-5416975008",
    "company": "Starburst",
    "title": "AI Platform Engineer",
@@ -7586,6 +7872,19 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-flix-8816165002&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-flix-8816165002"
   },
   {
+   "id": "greenhouse-fivetran-7917346003",
+   "company": "Fivetran",
+   "title": "Senior Software Engineer",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted": "2026-09-17",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7917346003",
+   "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7917346003",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-fivetran-7917346003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-fivetran-7917346003"
+  },
+  {
    "id": "greenhouse-purestorage-8210473",
    "company": "Everpure (Pure Storage)",
    "title": "Salesforce Developer",
@@ -7597,19 +7896,6 @@
    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8210473",
    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8210473",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8210473&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8210473"
-  },
-  {
-   "id": "greenhouse-purestorage-8169046",
-   "company": "Everpure (Pure Storage)",
-   "title": "MTS - Performance Engineering",
-   "location": "Bangalore, India; Office - India (Bangalore - Prestige Dynasty Phase 2)",
-   "posted": "2026-09-17",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8169046",
-   "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8169046",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8169046&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8169046"
   },
   {
    "id": "greenhouse-purestorage-8203265",
@@ -7690,6 +7976,19 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-okta-8110864&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-okta-8110864"
   },
   {
+   "id": "greenhouse-moniepoint-4978843101",
+   "company": "Moniepoint",
+   "title": "Engineering Manager",
+   "location": "Remote, Spain; Moniepoint India",
+   "posted": "2026-09-16",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4978843101",
+   "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4978843101",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-moniepoint-4978843101&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-moniepoint-4978843101"
+  },
+  {
    "id": "greenhouse-moniepoint-4978841101",
    "company": "Moniepoint",
    "title": "Engineering Manager",
@@ -7714,19 +8013,6 @@
    "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4978846101",
    "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4978846101",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-moniepoint-4978846101&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-moniepoint-4978846101"
-  },
-  {
-   "id": "greenhouse-moniepoint-4978843101",
-   "company": "Moniepoint",
-   "title": "Engineering Manager",
-   "location": "Remote, Spain; Moniepoint India",
-   "posted": "2026-09-16",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4978843101",
-   "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4978843101",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-moniepoint-4978843101&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-moniepoint-4978843101"
   },
   {
    "id": "greenhouse-moniepoint-4978853101",
@@ -7794,32 +8080,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8186109&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8186109"
   },
   {
-   "id": "greenhouse-purestorage-8186238",
-   "company": "Everpure (Pure Storage)",
-   "title": "Senior Security Operations Manager",
-   "location": "Bangalore, India",
-   "posted": "2026-09-16",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8186238",
-   "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8186238",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8186238&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8186238"
-  },
-  {
-   "id": "greenhouse-purestorage-8179433",
-   "company": "Everpure (Pure Storage)",
-   "title": "Senior Security Operations Engineer",
-   "location": "Bangalore, India",
-   "posted": "2026-09-16",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8179433",
-   "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8179433",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8179433&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8179433"
-  },
-  {
    "id": "greenhouse-databricks-8795446002",
    "company": "Databricks",
    "title": "Solutions Architect",
@@ -7883,6 +8143,19 @@
    "url": "https://www.payoneer.com/careers/position/8185487/?gh_jid=8185487",
    "apply_url": "https://www.payoneer.com/careers/position/8185487/?gh_jid=8185487",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-payoneer-8185487&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-payoneer-8185487"
+  },
+  {
+   "id": "greenhouse-okta-8161278",
+   "company": "Okta",
+   "title": "Staff Software Engineer",
+   "location": "Bengaluru, India; Bengaluru",
+   "posted": "2026-09-15",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-06",
+   "url": "https://www.okta.com/company/careers/opportunity/8161278?gh_jid=8161278",
+   "apply_url": "https://www.okta.com/company/careers/opportunity/8161278?gh_jid=8161278",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-okta-8161278&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-okta-8161278"
   },
   {
    "id": "greenhouse-okta-8203481",
@@ -7987,19 +8260,6 @@
    "url": "https://jobs.ashbyhq.com/kong/0c83fc46-001a-42d2-b979-d16ff0806681",
    "apply_url": "https://jobs.ashbyhq.com/kong/0c83fc46-001a-42d2-b979-d16ff0806681",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=ashby-kong-0c83fc46-001a-42d2-b979-d16ff0806681&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=ashby-kong-0c83fc46-001a-42d2-b979-d16ff0806681"
-  },
-  {
-   "id": "greenhouse-purestorage-8170836",
-   "company": "Everpure (Pure Storage)",
-   "title": "Member of Technical Staff - FlashArray",
-   "location": "Bangalore, India; Office - India (Bangalore - Prestige Dynasty Phase 2)",
-   "posted": "2026-09-15",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8170836",
-   "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8170836",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8170836&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8170836"
   },
   {
    "id": "greenhouse-purestorage-8186404",
@@ -8626,19 +8886,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-mongodb-8173777&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-mongodb-8173777"
   },
   {
-   "id": "greenhouse-zscaler-5215336007",
-   "company": "Zscaler",
-   "title": "Principal Sales Engineer",
-   "location": "Gurgaon, IND; Mumbai, IND; Mumbai, IND",
-   "posted": "2026-09-03",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5215336007",
-   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5215336007",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-zscaler-5215336007&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-zscaler-5215336007"
-  },
-  {
    "id": "greenhouse-waymo-8173977",
    "company": "Waymo",
    "title": "Senior Software Engineer, Compute Software",
@@ -8650,6 +8897,19 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8173977",
    "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8173977",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-waymo-8173977&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-waymo-8173977"
+  },
+  {
+   "id": "lever-eu-tomtom-07f93991-9ab4-493b-9597-5cc4ce764811",
+   "company": "TomTom",
+   "title": "Senior Security Analyst",
+   "location": "Pune, India",
+   "posted": "2026-09-03",
+   "posted_kind": "created",
+   "ats": "lever-eu",
+   "first_seen": "2026-11-06",
+   "url": "https://jobs.eu.lever.co/tomtom/07f93991-9ab4-493b-9597-5cc4ce764811",
+   "apply_url": "https://jobs.eu.lever.co/tomtom/07f93991-9ab4-493b-9597-5cc4ce764811",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=lever-eu-tomtom-07f93991-9ab4-493b-9597-5cc4ce764811&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=lever-eu-tomtom-07f93991-9ab4-493b-9597-5cc4ce764811"
   },
   {
    "id": "greenhouse-stripe-8175820",
@@ -9068,19 +9328,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-rubrik-7956918&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-rubrik-7956918"
   },
   {
-   "id": "greenhouse-mongodb-7523861",
-   "company": "MongoDB",
-   "title": "Staff Engineer",
-   "location": "Gurugram; Gurugram, Haryana, India",
-   "posted": "2026-08-31",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=7523861",
-   "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7523861",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-mongodb-7523861&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-mongodb-7523861"
-  },
-  {
    "id": "greenhouse-databricks-8756138002",
    "company": "Databricks",
    "title": "Credit and Collections Manager",
@@ -9367,19 +9614,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=lever-veeva-d29d6fd1-218f-4cad-910a-a77eb80739c2&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=lever-veeva-d29d6fd1-218f-4cad-910a-a77eb80739c2"
   },
   {
-   "id": "greenhouse-okta-7831189",
-   "company": "Okta",
-   "title": "Staff Software Engineer, Identity Administration (Full Stack)",
-   "location": "Bengaluru, India; Bengaluru",
-   "posted": "2026-08-24",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://www.okta.com/company/careers/opportunity/7831189?gh_jid=7831189",
-   "apply_url": "https://www.okta.com/company/careers/opportunity/7831189?gh_jid=7831189",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-okta-7831189&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-okta-7831189"
-  },
-  {
    "id": "greenhouse-okta-8141274",
    "company": "Okta",
    "title": "Staff Data Analyst, People Analytics",
@@ -9419,17 +9653,17 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-fivetran-7818226003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-fivetran-7818226003"
   },
   {
-   "id": "greenhouse-purestorage-8131754",
+   "id": "greenhouse-purestorage-8131772",
    "company": "Everpure (Pure Storage)",
    "title": "MTS-Exa",
    "location": "Bangalore, India; Office - India (Bangalore - Prestige Dynasty Phase 2)",
    "posted": "2026-08-24",
    "posted_kind": "first_published",
    "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8131754",
-   "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8131754",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8131754&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8131754"
+   "first_seen": "2026-11-06",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8131772",
+   "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8131772",
+   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8131772&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8131772"
   },
   {
    "id": "greenhouse-purestorage-8124408",
@@ -9469,19 +9703,6 @@
    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8129785",
    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8129785",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-purestorage-8129785&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-purestorage-8129785"
-  },
-  {
-   "id": "greenhouse-zscaler-5215314007",
-   "company": "Zscaler",
-   "title": "Sr. Staff Software Development Engineer (Backend Dev - C/C++)",
-   "location": "Bangalore, IND",
-   "posted": "2026-08-21",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5215314007",
-   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5215314007",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-zscaler-5215314007&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-zscaler-5215314007"
   },
   {
    "id": "greenhouse-zscaler-5210019007",
@@ -9716,19 +9937,6 @@
    "url": "https://www.okta.com/company/careers/opportunity/8074824?gh_jid=8074824",
    "apply_url": "https://www.okta.com/company/careers/opportunity/8074824?gh_jid=8074824",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-okta-8074824&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-okta-8074824"
-  },
-  {
-   "id": "greenhouse-mongodb-8111979",
-   "company": "MongoDB",
-   "title": "Software Engineer 3, AI Builder Experience",
-   "location": "Gurugram; Gurugram, Haryana, India",
-   "posted": "2026-08-19",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=8111979",
-   "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8111979",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-mongodb-8111979&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-mongodb-8111979"
   },
   {
    "id": "greenhouse-mongodb-8128617",
@@ -10615,19 +10823,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-netskope-8088811&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-netskope-8088811"
   },
   {
-   "id": "greenhouse-mongodb-8083366",
-   "company": "MongoDB",
-   "title": "Software Engineer 3",
-   "location": "Gurugram; Gurugram, Haryana, India",
-   "posted": "2026-08-03",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
-   "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-mongodb-8083366&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-mongodb-8083366"
-  },
-  {
    "id": "greenhouse-grafanalabs-6112305004",
    "company": "Grafana Labs",
    "title": "Senior Enterprise Account Executive, Acquisition | Bengaluru, India",
@@ -11291,19 +11486,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-stripe-7962437&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-stripe-7962437"
   },
   {
-   "id": "greenhouse-stripe-8063857",
-   "company": "Stripe",
-   "title": "Fraud Operations Team Lead",
-   "location": "Bengaluru; India Locations",
-   "posted": "2026-07-14",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://stripe.com/jobs/search?gh_jid=8063857",
-   "apply_url": "https://stripe.com/jobs/search?gh_jid=8063857",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-stripe-8063857&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-stripe-8063857"
-  },
-  {
    "id": "greenhouse-toast-8045807",
    "company": "Toast",
    "title": "Manager II, Software Engineering",
@@ -11393,19 +11575,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
    "apply_url": "https://stripe.com/jobs/search?gh_jid=8031833",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-stripe-8031833&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-stripe-8031833"
-  },
-  {
-   "id": "greenhouse-stripe-8053011",
-   "company": "Stripe",
-   "title": "Operations Manager, Stripe Delivery Centre",
-   "location": "Bengaluru; India Locations",
-   "posted": "2026-07-10",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://stripe.com/jobs/search?gh_jid=8053011",
-   "apply_url": "https://stripe.com/jobs/search?gh_jid=8053011",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-stripe-8053011&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-stripe-8053011"
   },
   {
    "id": "greenhouse-purestorage-8023892",
@@ -11579,7 +11748,7 @@
   {
    "id": "greenhouse-celonis-7635190003",
    "company": "Celonis",
-   "title": "Applied Value Engineer- CPGR/CMT-NAM",
+   "title": "Senior Applied Value Engineer- CPGR/CMT-NAM",
    "location": "Bangalore, India",
    "posted": "2026-07-03",
    "posted_kind": "first_published",
@@ -12437,7 +12606,7 @@
   {
    "id": "ashby-openai-87989505-81e5-4513-bba0-5f00bb064216",
    "company": "OpenAI",
-   "title": "Partner AI Deployment Engineer - AWS",
+   "title": "Applied AI Engineer, Partner - AWS",
    "location": "Bangalore - Remote; Mumbai, India; Delhi, India",
    "posted": "2026-06-01",
    "posted_kind": "published",
@@ -13670,19 +13839,6 @@
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=lever-veeva-361ccc4a-7175-43d8-8e1c-bd442f77b9fe&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=lever-veeva-361ccc4a-7175-43d8-8e1c-bd442f77b9fe"
   },
   {
-   "id": "greenhouse-stripe-7608396",
-   "company": "Stripe",
-   "title": "Fraud Operations Manager",
-   "location": "Bengaluru; India Locations",
-   "posted": "2026-02-13",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://stripe.com/jobs/search?gh_jid=7608396",
-   "apply_url": "https://stripe.com/jobs/search?gh_jid=7608396",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-stripe-7608396&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-stripe-7608396"
-  },
-  {
    "id": "greenhouse-stripe-7597613",
    "company": "Stripe",
    "title": "Finance and Strategy Specialist",
@@ -13759,19 +13915,6 @@
    "url": "https://abnormal.ai/careers/jobs/7623522003?gh_jid=7623522003",
    "apply_url": "https://abnormal.ai/careers/jobs/7623522003?gh_jid=7623522003",
    "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-abnormalsecurity-7623522003&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-abnormalsecurity-7623522003"
-  },
-  {
-   "id": "greenhouse-okta-7599312",
-   "company": "Okta",
-   "title": "Senior Software Engineer",
-   "location": "Bengaluru, India; Bengaluru",
-   "posted": "2026-02-09",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312",
-   "apply_url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312",
-   "fill_url": "https://jobalfred.com/go/?list=india-gcc&job=greenhouse-okta-7599312&utm_source=github&utm_medium=job_list&utm_campaign=india_gcc&utm_content=greenhouse-okta-7599312"
   },
   {
    "id": "greenhouse-mongodb-7590587",
