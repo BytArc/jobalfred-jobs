@@ -1,11 +1,25 @@
 {
  "list": "remote-eu",
  "title": "Remote roles in the EU",
- "built": "2026-11-07T11:43:03+00:00",
- "count": 1018,
+ "built": "2026-11-08T11:55:38+00:00",
+ "count": 1019,
  "licence": "CC-BY-4.0",
  "source_note": "Built only from official public job-board APIs: Greenhouse Job Board API, Lever Postings API and Ashby public job posting API. Job descriptions are read for matching and are not stored.",
  "jobs": [
+  {
+   "id": "ashby-parloa-3f2fbcf3-3f11-4226-9e61-778dba4d6c4d",
+   "company": "Parloa",
+   "title": "Business Development Representative - Eastern Europe",
+   "location": "Berlin; Munich; Germany Remote",
+   "posted": "2026-11-07",
+   "posted_kind": "published",
+   "ats": "ashby",
+   "first_seen": "2026-11-08",
+   "url": "https://jobs.ashbyhq.com/parloa/3f2fbcf3-3f11-4226-9e61-778dba4d6c4d",
+   "apply_url": "https://jobs.ashbyhq.com/parloa/3f2fbcf3-3f11-4226-9e61-778dba4d6c4d",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=ashby-parloa-3f2fbcf3-3f11-4226-9e61-778dba4d6c4d&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=ashby-parloa-3f2fbcf3-3f11-4226-9e61-778dba4d6c4d",
+   "scope": "Germany"
+  },
   {
    "id": "greenhouse-sproutsocial-8336554",
    "company": "Sprout Social",
@@ -861,20 +875,6 @@
    "scope": "Germany"
   },
   {
-   "id": "greenhouse-mozilla-8351060",
-   "company": "Mozilla",
-   "title": "Staff Software Engineer, Firefox Enterprise",
-   "location": "Remote France; Remote Germany",
-   "posted": "2026-11-03",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8351060",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8351060",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8351060&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8351060",
-   "scope": "France"
-  },
-  {
    "id": "greenhouse-mozilla-8142616",
    "company": "Mozilla",
    "title": "Staff Software Engineer, Firefox Enterprise",
@@ -887,6 +887,20 @@
    "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8142616",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8142616&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8142616",
    "scope": "Germany"
+  },
+  {
+   "id": "greenhouse-mozilla-8351060",
+   "company": "Mozilla",
+   "title": "Staff Software Engineer, Firefox Enterprise",
+   "location": "Remote France; Remote Germany",
+   "posted": "2026-11-03",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8351060",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8351060",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8351060&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8351060",
+   "scope": "France"
   },
   {
    "id": "ashby-kong-7e5f0067-f998-4254-9ce3-21b6ebee0283",
@@ -1603,20 +1617,6 @@
    "scope": "Ireland"
   },
   {
-   "id": "greenhouse-wrike-4748782005",
-   "company": "Wrike",
-   "title": "Senior CloudOps Engineer (Network Engineer)",
-   "location": "Nicosia; Cyprus; Czech Republic; Estonia - Remote; France",
-   "posted": "2026-10-29",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/wrike/jobs/4748782005",
-   "apply_url": "https://job-boards.greenhouse.io/wrike/jobs/4748782005",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wrike-4748782005&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wrike-4748782005",
-   "scope": "Estonia"
-  },
-  {
    "id": "greenhouse-wrike-4748783005",
    "company": "Wrike",
    "title": "Senior CloudOps Engineer (Network Engineer)",
@@ -1628,6 +1628,20 @@
    "url": "https://job-boards.greenhouse.io/wrike/jobs/4748783005",
    "apply_url": "https://job-boards.greenhouse.io/wrike/jobs/4748783005",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wrike-4748783005&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wrike-4748783005",
+   "scope": "Estonia"
+  },
+  {
+   "id": "greenhouse-wrike-4748782005",
+   "company": "Wrike",
+   "title": "Senior CloudOps Engineer (Network Engineer)",
+   "location": "Nicosia; Cyprus; Czech Republic; Estonia - Remote; France",
+   "posted": "2026-10-29",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/wrike/jobs/4748782005",
+   "apply_url": "https://job-boards.greenhouse.io/wrike/jobs/4748782005",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wrike-4748782005&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wrike-4748782005",
    "scope": "Estonia"
   },
   {
@@ -1897,20 +1911,6 @@
    "scope": "France"
   },
   {
-   "id": "greenhouse-reddit-8330450",
-   "company": "Reddit",
-   "title": "Engineering Manager, Product Catalogs",
-   "location": "Remote - United Kingdom; Amsterdam, North Holland, Netherlands",
-   "posted": "2026-10-28",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/reddit/jobs/8330450",
-   "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8330450",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-reddit-8330450&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-reddit-8330450",
-   "scope": "Netherlands"
-  },
-  {
    "id": "greenhouse-reddit-8330469",
    "company": "Reddit",
    "title": "Engineering Manager, Product Catalogs",
@@ -1922,6 +1922,20 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8330469",
    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8330469",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-reddit-8330469&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-reddit-8330469",
+   "scope": "Netherlands"
+  },
+  {
+   "id": "greenhouse-reddit-8330450",
+   "company": "Reddit",
+   "title": "Engineering Manager, Product Catalogs",
+   "location": "Remote - United Kingdom; Amsterdam, North Holland, Netherlands",
+   "posted": "2026-10-28",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8330450",
+   "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8330450",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-reddit-8330450&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-reddit-8330450",
    "scope": "Netherlands"
   },
   {
@@ -2233,20 +2247,6 @@
    "scope": "Portugal"
   },
   {
-   "id": "greenhouse-affirm-8034647003",
-   "company": "Affirm",
-   "title": "Staff Software Engineer, Backend (Recoveries)",
-   "location": "Remote Poland; Remote Spain",
-   "posted": "2026-10-27",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8034647003",
-   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8034647003",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8034647003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8034647003",
-   "scope": "Poland"
-  },
-  {
    "id": "greenhouse-affirm-8034645003",
    "company": "Affirm",
    "title": "Staff Software Engineer, Backend (Recoveries)",
@@ -2261,18 +2261,18 @@
    "scope": "Spain"
   },
   {
-   "id": "greenhouse-affirm-8040394003",
+   "id": "greenhouse-affirm-8034647003",
    "company": "Affirm",
-   "title": "Software Engineer II, Fullstack (Repayment UX)",
-   "location": "Remote Spain; Remote Poland",
+   "title": "Staff Software Engineer, Backend (Recoveries)",
+   "location": "Remote Poland; Remote Spain",
    "posted": "2026-10-27",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003",
-   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8040394003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8040394003",
-   "scope": "Spain"
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8034647003",
+   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8034647003",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8034647003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8034647003",
+   "scope": "Poland"
   },
   {
    "id": "greenhouse-affirm-8040392003",
@@ -2289,17 +2289,17 @@
    "scope": "Poland"
   },
   {
-   "id": "greenhouse-affirm-8040380003",
+   "id": "greenhouse-affirm-8040394003",
    "company": "Affirm",
-   "title": "Senior Software Engineer, Fullstack (Repayments UX)",
+   "title": "Software Engineer II, Fullstack (Repayment UX)",
    "location": "Remote Spain; Remote Poland",
    "posted": "2026-10-27",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040380003",
-   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040380003",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8040380003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8040380003",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003",
+   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8040394003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8040394003",
    "scope": "Spain"
   },
   {
@@ -2317,17 +2317,17 @@
    "scope": "Poland"
   },
   {
-   "id": "greenhouse-affirm-8043027003",
+   "id": "greenhouse-affirm-8040380003",
    "company": "Affirm",
-   "title": "Senior Manager, Software Engineering (Card)",
+   "title": "Senior Software Engineer, Fullstack (Repayments UX)",
    "location": "Remote Spain; Remote Poland",
    "posted": "2026-10-27",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
-   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8043027003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8043027003",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040380003",
+   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040380003",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8040380003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8040380003",
    "scope": "Spain"
   },
   {
@@ -2345,6 +2345,20 @@
    "scope": "Poland"
   },
   {
+   "id": "greenhouse-affirm-8043027003",
+   "company": "Affirm",
+   "title": "Senior Manager, Software Engineering (Card)",
+   "location": "Remote Spain; Remote Poland",
+   "posted": "2026-10-27",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
+   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8043027003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8043027003",
+   "scope": "Spain"
+  },
+  {
    "id": "greenhouse-affirm-8013440003",
    "company": "Affirm",
    "title": "Manager, Machine Learning Engineering, Checkout",
@@ -2356,20 +2370,6 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8013440003",
    "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8013440003",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8013440003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8013440003",
-   "scope": "Poland"
-  },
-  {
-   "id": "greenhouse-affirm-8041423003",
-   "company": "Affirm",
-   "title": "Manager, Machine Learning Engineering, Checkout",
-   "location": "Remote Poland; Remote Spain; Remote UK",
-   "posted": "2026-10-27",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8041423003",
-   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8041423003",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8041423003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8041423003",
    "scope": "Poland"
   },
   {
@@ -2385,6 +2385,20 @@
    "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8041432003",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8041432003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8041432003",
    "scope": "Spain"
+  },
+  {
+   "id": "greenhouse-affirm-8041423003",
+   "company": "Affirm",
+   "title": "Manager, Machine Learning Engineering, Checkout",
+   "location": "Remote Poland; Remote Spain; Remote UK",
+   "posted": "2026-10-27",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8041423003",
+   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8041423003",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-8041423003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-8041423003",
+   "scope": "Poland"
   },
   {
    "id": "lever-veeva-f387c7d3-74af-4afc-ba9f-d9cf8ac60ee7",
@@ -3073,34 +3087,6 @@
    "scope": "Germany"
   },
   {
-   "id": "greenhouse-mozilla-8315191",
-   "company": "Mozilla",
-   "title": "Staff Software Engineer, Tools & Systems",
-   "location": "Remote Belgium; Remote Canada",
-   "posted": "2026-10-22",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315191",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315191",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8315191&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8315191",
-   "scope": "Belgium"
-  },
-  {
-   "id": "greenhouse-mozilla-8315175",
-   "company": "Mozilla",
-   "title": "Staff Software Engineer, Tools & Systems",
-   "location": "Remote France; Remote Canada",
-   "posted": "2026-10-22",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315175",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315175",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8315175&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8315175",
-   "scope": "France"
-  },
-  {
    "id": "greenhouse-mozilla-8315181",
    "company": "Mozilla",
    "title": "Staff Software Engineer, Tools & Systems",
@@ -3127,6 +3113,20 @@
    "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315189",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8315189&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8315189",
    "scope": "Finland"
+  },
+  {
+   "id": "greenhouse-mozilla-8315191",
+   "company": "Mozilla",
+   "title": "Staff Software Engineer, Tools & Systems",
+   "location": "Remote Belgium; Remote Canada",
+   "posted": "2026-10-22",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315191",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315191",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8315191&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8315191",
+   "scope": "Belgium"
   },
   {
    "id": "greenhouse-mozilla-8315192",
@@ -3171,18 +3171,18 @@
    "scope": "Sweden"
   },
   {
-   "id": "greenhouse-mozilla-8315278",
+   "id": "greenhouse-mozilla-8315175",
    "company": "Mozilla",
-   "title": "Senior Software Engineer, Privacy",
-   "location": "Remote Spain; Remote Germany",
+   "title": "Staff Software Engineer, Tools & Systems",
+   "location": "Remote France; Remote Canada",
    "posted": "2026-10-22",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315278",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315278",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8315278&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8315278",
-   "scope": "Spain"
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315175",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315175",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8315175&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8315175",
+   "scope": "France"
   },
   {
    "id": "greenhouse-mozilla-8301275",
@@ -3199,20 +3199,6 @@
    "scope": "Germany"
   },
   {
-   "id": "greenhouse-mozilla-8315350",
-   "company": "Mozilla",
-   "title": "Senior Software Engineer, Privacy",
-   "location": "Remote Netherlands; Remote Germany",
-   "posted": "2026-10-22",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315350",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315350",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8315350&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8315350",
-   "scope": "Netherlands"
-  },
-  {
    "id": "greenhouse-mozilla-8315412",
    "company": "Mozilla",
    "title": "Senior Software Engineer, Privacy",
@@ -3227,18 +3213,46 @@
    "scope": "Sweden"
   },
   {
-   "id": "greenhouse-mozilla-8315203",
+   "id": "greenhouse-mozilla-8315350",
    "company": "Mozilla",
    "title": "Senior Software Engineer, Privacy",
-   "location": "Remote UK; Remote Germany",
+   "location": "Remote Netherlands; Remote Germany",
    "posted": "2026-10-22",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315203",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315203",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8315203&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8315203",
-   "scope": "Germany"
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315350",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315350",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8315350&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8315350",
+   "scope": "Netherlands"
+  },
+  {
+   "id": "greenhouse-mozilla-8315278",
+   "company": "Mozilla",
+   "title": "Senior Software Engineer, Privacy",
+   "location": "Remote Spain; Remote Germany",
+   "posted": "2026-10-22",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315278",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315278",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8315278&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8315278",
+   "scope": "Spain"
+  },
+  {
+   "id": "greenhouse-mozilla-8315221",
+   "company": "Mozilla",
+   "title": "Senior Software Engineer, Privacy",
+   "location": "Remote Belgium; Remote Germany",
+   "posted": "2026-10-22",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315221",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315221",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8315221&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8315221",
+   "scope": "Belgium"
   },
   {
    "id": "greenhouse-mozilla-8315204",
@@ -3255,18 +3269,18 @@
    "scope": "Finland"
   },
   {
-   "id": "greenhouse-mozilla-8315221",
+   "id": "greenhouse-mozilla-8315203",
    "company": "Mozilla",
    "title": "Senior Software Engineer, Privacy",
-   "location": "Remote Belgium; Remote Germany",
+   "location": "Remote UK; Remote Germany",
    "posted": "2026-10-22",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315221",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315221",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8315221&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8315221",
-   "scope": "Belgium"
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315203",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315203",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8315203&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8315203",
+   "scope": "Germany"
   },
   {
    "id": "greenhouse-mozilla-8315198",
@@ -3479,20 +3493,6 @@
    "scope": "France"
   },
   {
-   "id": "greenhouse-mozilla-8304489",
-   "company": "Mozilla",
-   "title": "Firefox Enterprise Partnership Lead (France)",
-   "location": "Remote France",
-   "posted": "2026-10-21",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8304489",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8304489",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8304489&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8304489",
-   "scope": "France"
-  },
-  {
    "id": "greenhouse-mozilla-8304172",
    "company": "Mozilla",
    "title": "Firefox Enterprise Partnership Lead (France)",
@@ -3504,6 +3504,20 @@
    "url": "https://job-boards.greenhouse.io/mozilla/jobs/8304172",
    "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8304172",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8304172&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8304172",
+   "scope": "France"
+  },
+  {
+   "id": "greenhouse-mozilla-8304489",
+   "company": "Mozilla",
+   "title": "Firefox Enterprise Partnership Lead (France)",
+   "location": "Remote France",
+   "posted": "2026-10-21",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8304489",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8304489",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8304489&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8304489",
    "scope": "France"
   },
   {
@@ -4361,20 +4375,6 @@
    "scope": "Poland"
   },
   {
-   "id": "greenhouse-moniepoint-5009083101",
-   "company": "Moniepoint",
-   "title": "Principal Mobile Engineer (POS Terminal)",
-   "location": "Remote, Spain; Lagos, Nigeria",
-   "posted": "2026-10-16",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/5009083101",
-   "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/5009083101",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-moniepoint-5009083101&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-moniepoint-5009083101",
-   "scope": "Spain"
-  },
-  {
    "id": "greenhouse-moniepoint-5009084101",
    "company": "Moniepoint",
    "title": "Principal Mobile Engineer (POS Terminal)",
@@ -4387,6 +4387,20 @@
    "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/5009084101",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-moniepoint-5009084101&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-moniepoint-5009084101",
    "scope": "Portugal"
+  },
+  {
+   "id": "greenhouse-moniepoint-5009083101",
+   "company": "Moniepoint",
+   "title": "Principal Mobile Engineer (POS Terminal)",
+   "location": "Remote, Spain; Lagos, Nigeria",
+   "posted": "2026-10-16",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/5009083101",
+   "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/5009083101",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-moniepoint-5009083101&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-moniepoint-5009083101",
+   "scope": "Spain"
   },
   {
    "id": "greenhouse-consensys-8288570",
@@ -4445,20 +4459,6 @@
    "scope": "Spain"
   },
   {
-   "id": "greenhouse-dropbox-8280093",
-   "company": "Dropbox",
-   "title": "Senior Corporate Enterprise Platform Engineer, Windows",
-   "location": "Remote - US: Select locations; Canada; Ireland; US",
-   "posted": "2026-10-16",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://jobs.dropbox.com/listing/8280093?gh_jid=8280093",
-   "apply_url": "https://jobs.dropbox.com/listing/8280093?gh_jid=8280093",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-dropbox-8280093&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-dropbox-8280093",
-   "scope": "Ireland"
-  },
-  {
    "id": "greenhouse-dropbox-8280094",
    "company": "Dropbox",
    "title": "Senior Corporate Enterprise Platform Engineer, Windows",
@@ -4470,6 +4470,20 @@
    "url": "https://jobs.dropbox.com/listing/8280094?gh_jid=8280094",
    "apply_url": "https://jobs.dropbox.com/listing/8280094?gh_jid=8280094",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-dropbox-8280094&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-dropbox-8280094",
+   "scope": "Ireland"
+  },
+  {
+   "id": "greenhouse-dropbox-8280093",
+   "company": "Dropbox",
+   "title": "Senior Corporate Enterprise Platform Engineer, Windows",
+   "location": "Remote - US: Select locations; Canada; Ireland; US",
+   "posted": "2026-10-16",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://jobs.dropbox.com/listing/8280093?gh_jid=8280093",
+   "apply_url": "https://jobs.dropbox.com/listing/8280093?gh_jid=8280093",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-dropbox-8280093&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-dropbox-8280093",
    "scope": "Ireland"
   },
   {
@@ -4571,20 +4585,6 @@
    "scope": "Poland"
   },
   {
-   "id": "greenhouse-databricks-8892970002",
-   "company": "Databricks",
-   "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
-   "location": "Remote - France; London, United Kingdom",
-   "posted": "2026-10-15",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002",
-   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-databricks-8892970002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-databricks-8892970002",
-   "scope": "France"
-  },
-  {
    "id": "greenhouse-databricks-8892968002",
    "company": "Databricks",
    "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
@@ -4597,6 +4597,20 @@
    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892968002",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-databricks-8892968002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-databricks-8892968002",
    "scope": "Sweden"
+  },
+  {
+   "id": "greenhouse-databricks-8892970002",
+   "company": "Databricks",
+   "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+   "location": "Remote - France; London, United Kingdom",
+   "posted": "2026-10-15",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-databricks-8892970002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-databricks-8892970002",
+   "scope": "France"
   },
   {
    "id": "greenhouse-databricks-8892971002",
@@ -4683,18 +4697,18 @@
    "scope": "France"
   },
   {
-   "id": "greenhouse-mozilla-8282262",
+   "id": "greenhouse-mozilla-8282251",
    "company": "Mozilla",
    "title": "Senior Software Engineer, Firefox Security",
-   "location": "Remote Spain; Remote Germany",
+   "location": "Remote Finland; Remote Germany",
    "posted": "2026-10-14",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8282262",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282262",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8282262&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8282262",
-   "scope": "Spain"
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8282251",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282251",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8282251&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8282251",
+   "scope": "Finland"
   },
   {
    "id": "greenhouse-mozilla-8282302",
@@ -4709,6 +4723,48 @@
    "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282302",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8282302&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8282302",
    "scope": "Sweden"
+  },
+  {
+   "id": "greenhouse-mozilla-8282264",
+   "company": "Mozilla",
+   "title": "Senior Software Engineer, Firefox Security",
+   "location": "Remote Netherlands; Remote Germany",
+   "posted": "2026-10-14",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8282264",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282264",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8282264&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8282264",
+   "scope": "Netherlands"
+  },
+  {
+   "id": "greenhouse-mozilla-8282262",
+   "company": "Mozilla",
+   "title": "Senior Software Engineer, Firefox Security",
+   "location": "Remote Spain; Remote Germany",
+   "posted": "2026-10-14",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8282262",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282262",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8282262&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8282262",
+   "scope": "Spain"
+  },
+  {
+   "id": "greenhouse-mozilla-8282259",
+   "company": "Mozilla",
+   "title": "Senior Software Engineer, Firefox Security",
+   "location": "Remote Belgium; Remote Germany",
+   "posted": "2026-10-14",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8282259",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282259",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8282259&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8282259",
+   "scope": "Belgium"
   },
   {
    "id": "greenhouse-mozilla-8282243",
@@ -4737,48 +4793,6 @@
    "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282248",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8282248&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8282248",
    "scope": "France"
-  },
-  {
-   "id": "greenhouse-mozilla-8282251",
-   "company": "Mozilla",
-   "title": "Senior Software Engineer, Firefox Security",
-   "location": "Remote Finland; Remote Germany",
-   "posted": "2026-10-14",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8282251",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282251",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8282251&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8282251",
-   "scope": "Finland"
-  },
-  {
-   "id": "greenhouse-mozilla-8282259",
-   "company": "Mozilla",
-   "title": "Senior Software Engineer, Firefox Security",
-   "location": "Remote Belgium; Remote Germany",
-   "posted": "2026-10-14",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8282259",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282259",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8282259&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8282259",
-   "scope": "Belgium"
-  },
-  {
-   "id": "greenhouse-mozilla-8282264",
-   "company": "Mozilla",
-   "title": "Senior Software Engineer, Firefox Security",
-   "location": "Remote Netherlands; Remote Germany",
-   "posted": "2026-10-14",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8282264",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282264",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8282264&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8282264",
-   "scope": "Netherlands"
   },
   {
    "id": "greenhouse-gitlab-8885535002",
@@ -5481,20 +5495,6 @@
    "scope": "Netherlands"
   },
   {
-   "id": "greenhouse-twilio-8258962",
-   "company": "Twilio",
-   "title": "Technical Support Engineer 2",
-   "location": "Remote - Ireland",
-   "posted": "2026-10-08",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-06",
-   "url": "https://job-boards.greenhouse.io/twilio/jobs/8258962",
-   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8258962",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-twilio-8258962&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-twilio-8258962",
-   "scope": "Ireland"
-  },
-  {
    "id": "lever-sysdig-44859503-7eea-4c0c-9964-8b9b6f42d36f",
    "company": "Sysdig",
    "title": "Senior Software Engineer (Monitor Ingestion team)",
@@ -5691,17 +5691,17 @@
    "scope": "Germany"
   },
   {
-   "id": "greenhouse-swordhealth-4435433009",
+   "id": "greenhouse-swordhealth-4436435009",
    "company": "Sword Health",
    "title": "Performance Marketing Manager",
    "location": "Remote - Germany",
    "posted": "2026-10-07",
    "posted_kind": "first_published",
    "ats": "greenhouse",
-   "first_seen": "2026-11-07",
-   "url": "https://job-boards.greenhouse.io/swordhealth/jobs/4435433009",
-   "apply_url": "https://job-boards.greenhouse.io/swordhealth/jobs/4435433009",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-swordhealth-4435433009&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-swordhealth-4435433009",
+   "first_seen": "2026-11-08",
+   "url": "https://job-boards.greenhouse.io/swordhealth/jobs/4436435009",
+   "apply_url": "https://job-boards.greenhouse.io/swordhealth/jobs/4436435009",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-swordhealth-4436435009&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-swordhealth-4436435009",
    "scope": "Germany"
   },
   {
@@ -6377,20 +6377,6 @@
    "scope": "Europe"
   },
   {
-   "id": "greenhouse-algolia-6215631004",
-   "company": "Algolia",
-   "title": "Enterprise Account Executive - Dutch Speaking",
-   "location": "London, England; Remote - Netherlands",
-   "posted": "2026-10-02",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/algolia/jobs/6215631004",
-   "apply_url": "https://job-boards.greenhouse.io/algolia/jobs/6215631004",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-algolia-6215631004&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-algolia-6215631004",
-   "scope": "Netherlands"
-  },
-  {
    "id": "greenhouse-algolia-6215629004",
    "company": "Algolia",
    "title": "Enterprise Account Executive - Dutch Speaking",
@@ -6402,6 +6388,20 @@
    "url": "https://job-boards.greenhouse.io/algolia/jobs/6215629004",
    "apply_url": "https://job-boards.greenhouse.io/algolia/jobs/6215629004",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-algolia-6215629004&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-algolia-6215629004",
+   "scope": "Netherlands"
+  },
+  {
+   "id": "greenhouse-algolia-6215631004",
+   "company": "Algolia",
+   "title": "Enterprise Account Executive - Dutch Speaking",
+   "location": "London, England; Remote - Netherlands",
+   "posted": "2026-10-02",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/algolia/jobs/6215631004",
+   "apply_url": "https://job-boards.greenhouse.io/algolia/jobs/6215631004",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-algolia-6215631004&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-algolia-6215631004",
    "scope": "Netherlands"
   },
   {
@@ -6430,6 +6430,20 @@
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5253416007",
    "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5253416007",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-zscaler-5253416007&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-zscaler-5253416007",
+   "scope": "Ireland"
+  },
+  {
+   "id": "greenhouse-twilio-8244723",
+   "company": "Twilio",
+   "title": "Technical Support Engineer 2",
+   "location": "Remote - Ireland",
+   "posted": "2026-10-01",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-08",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8244723",
+   "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8244723",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-twilio-8244723&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-twilio-8244723",
    "scope": "Ireland"
   },
   {
@@ -6489,20 +6503,6 @@
    "scope": "Poland"
   },
   {
-   "id": "greenhouse-wrike-4739193005",
-   "company": "Wrike",
-   "title": "Senior Manager, Competitive Intelligence & Positioning",
-   "location": "Ireland - Remote; Cyprus; Czech Republic; US - Remote",
-   "posted": "2026-09-30",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/wrike/jobs/4739193005",
-   "apply_url": "https://job-boards.greenhouse.io/wrike/jobs/4739193005",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wrike-4739193005&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wrike-4739193005",
-   "scope": "Ireland"
-  },
-  {
    "id": "greenhouse-wrike-4739195005",
    "company": "Wrike",
    "title": "Senior Manager, Competitive Intelligence & Positioning",
@@ -6514,6 +6514,20 @@
    "url": "https://job-boards.greenhouse.io/wrike/jobs/4739195005",
    "apply_url": "https://job-boards.greenhouse.io/wrike/jobs/4739195005",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wrike-4739195005&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wrike-4739195005",
+   "scope": "Ireland"
+  },
+  {
+   "id": "greenhouse-wrike-4739193005",
+   "company": "Wrike",
+   "title": "Senior Manager, Competitive Intelligence & Positioning",
+   "location": "Ireland - Remote; Cyprus; Czech Republic; US - Remote",
+   "posted": "2026-09-30",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/wrike/jobs/4739193005",
+   "apply_url": "https://job-boards.greenhouse.io/wrike/jobs/4739193005",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wrike-4739193005&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wrike-4739193005",
    "scope": "Ireland"
   },
   {
@@ -6755,18 +6769,18 @@
    "scope": "Germany"
   },
   {
-   "id": "greenhouse-mozilla-8237810",
+   "id": "greenhouse-mozilla-8237816",
    "company": "Mozilla",
    "title": "Senior Security Engineer - SecOps",
-   "location": "Remote UK; Remote Germany",
+   "location": "Remote Spain; Remote Germany",
    "posted": "2026-09-29",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8237810",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237810",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8237810&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8237810",
-   "scope": "Germany"
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8237816",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237816",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8237816&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8237816",
+   "scope": "Spain"
   },
   {
    "id": "greenhouse-mozilla-8237812",
@@ -6781,6 +6795,34 @@
    "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237812",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8237812&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8237812",
    "scope": "Finland"
+  },
+  {
+   "id": "greenhouse-mozilla-8237810",
+   "company": "Mozilla",
+   "title": "Senior Security Engineer - SecOps",
+   "location": "Remote UK; Remote Germany",
+   "posted": "2026-09-29",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8237810",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237810",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8237810&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8237810",
+   "scope": "Germany"
+  },
+  {
+   "id": "greenhouse-mozilla-8237815",
+   "company": "Mozilla",
+   "title": "Senior Security Engineer - SecOps",
+   "location": "Remote Belgium; Remote Germany",
+   "posted": "2026-09-29",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8237815",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237815",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8237815&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8237815",
+   "scope": "Belgium"
   },
   {
    "id": "greenhouse-mozilla-8191473",
@@ -6825,34 +6867,6 @@
    "scope": "Netherlands"
   },
   {
-   "id": "greenhouse-mozilla-8237816",
-   "company": "Mozilla",
-   "title": "Senior Security Engineer - SecOps",
-   "location": "Remote Spain; Remote Germany",
-   "posted": "2026-09-29",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8237816",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237816",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8237816&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8237816",
-   "scope": "Spain"
-  },
-  {
-   "id": "greenhouse-mozilla-8237815",
-   "company": "Mozilla",
-   "title": "Senior Security Engineer - SecOps",
-   "location": "Remote Belgium; Remote Germany",
-   "posted": "2026-09-29",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8237815",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237815",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8237815&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8237815",
-   "scope": "Belgium"
-  },
-  {
    "id": "greenhouse-grafanalabs-6209762004",
    "company": "Grafana Labs",
    "title": "Enterprise Account Executive, Growth - META | Remote | Spain",
@@ -6881,20 +6895,6 @@
    "scope": "Germany"
   },
   {
-   "id": "greenhouse-wrike-4738293005",
-   "company": "Wrike",
-   "title": "Business Systems Security Analyst",
-   "location": "Nicosia; Costa Rica - Remote; Cyprus; Czech Republic; Estonia - Remote",
-   "posted": "2026-09-28",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/wrike/jobs/4738293005",
-   "apply_url": "https://job-boards.greenhouse.io/wrike/jobs/4738293005",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wrike-4738293005&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wrike-4738293005",
-   "scope": "Estonia"
-  },
-  {
    "id": "greenhouse-wrike-4738294005",
    "company": "Wrike",
    "title": "Business Systems Security Analyst",
@@ -6906,6 +6906,20 @@
    "url": "https://job-boards.greenhouse.io/wrike/jobs/4738294005",
    "apply_url": "https://job-boards.greenhouse.io/wrike/jobs/4738294005",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wrike-4738294005&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wrike-4738294005",
+   "scope": "Estonia"
+  },
+  {
+   "id": "greenhouse-wrike-4738293005",
+   "company": "Wrike",
+   "title": "Business Systems Security Analyst",
+   "location": "Nicosia; Costa Rica - Remote; Cyprus; Czech Republic; Estonia - Remote",
+   "posted": "2026-09-28",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/wrike/jobs/4738293005",
+   "apply_url": "https://job-boards.greenhouse.io/wrike/jobs/4738293005",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wrike-4738293005&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wrike-4738293005",
    "scope": "Estonia"
   },
   {
@@ -7175,20 +7189,6 @@
    "scope": "Germany"
   },
   {
-   "id": "greenhouse-mozilla-8155077",
-   "company": "Mozilla",
-   "title": "Strategic Account Manager, Firefox Enterprise",
-   "location": "Remote France",
-   "posted": "2026-09-24",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8155077",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8155077",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8155077&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8155077",
-   "scope": "France"
-  },
-  {
    "id": "greenhouse-mozilla-8142161",
    "company": "Mozilla",
    "title": "Strategic Account Manager, Firefox Enterprise",
@@ -7200,6 +7200,20 @@
    "url": "https://job-boards.greenhouse.io/mozilla/jobs/8142161",
    "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8142161",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8142161&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8142161",
+   "scope": "France"
+  },
+  {
+   "id": "greenhouse-mozilla-8155077",
+   "company": "Mozilla",
+   "title": "Strategic Account Manager, Firefox Enterprise",
+   "location": "Remote France",
+   "posted": "2026-09-24",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8155077",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8155077",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8155077&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8155077",
    "scope": "France"
   },
   {
@@ -8267,46 +8281,18 @@
    "scope": "EMEA"
   },
   {
-   "id": "greenhouse-mozilla-8188889",
+   "id": "greenhouse-mozilla-8188881",
    "company": "Mozilla",
    "title": "Senior Software Engineer, Add-Ons",
-   "location": "Remote Netherlands; Remote Canada",
+   "location": "Remote Finland; Remote Canada",
    "posted": "2026-09-15",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8188889",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8188889",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8188889&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8188889",
-   "scope": "Netherlands"
-  },
-  {
-   "id": "greenhouse-mozilla-8188892",
-   "company": "Mozilla",
-   "title": "Senior Software Engineer, Add-Ons",
-   "location": "Remote Sweden; Remote Canada",
-   "posted": "2026-09-15",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8188892",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8188892",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8188892&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8188892",
-   "scope": "Sweden"
-  },
-  {
-   "id": "greenhouse-mozilla-8188873",
-   "company": "Mozilla",
-   "title": "Senior Software Engineer, Add-Ons",
-   "location": "Remote France; Remote Canada",
-   "posted": "2026-09-15",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8188873",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8188873",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8188873&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8188873",
-   "scope": "France"
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8188881",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8188881",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8188881&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8188881",
+   "scope": "Finland"
   },
   {
    "id": "greenhouse-mozilla-8188870",
@@ -8323,18 +8309,18 @@
    "scope": "Germany"
   },
   {
-   "id": "greenhouse-mozilla-8188881",
+   "id": "greenhouse-mozilla-8188873",
    "company": "Mozilla",
    "title": "Senior Software Engineer, Add-Ons",
-   "location": "Remote Finland; Remote Canada",
+   "location": "Remote France; Remote Canada",
    "posted": "2026-09-15",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8188881",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8188881",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8188881&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8188881",
-   "scope": "Finland"
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8188873",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8188873",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8188873&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8188873",
+   "scope": "France"
   },
   {
    "id": "greenhouse-mozilla-8188884",
@@ -8363,6 +8349,34 @@
    "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8188887",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8188887&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8188887",
    "scope": "Spain"
+  },
+  {
+   "id": "greenhouse-mozilla-8188889",
+   "company": "Mozilla",
+   "title": "Senior Software Engineer, Add-Ons",
+   "location": "Remote Netherlands; Remote Canada",
+   "posted": "2026-09-15",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8188889",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8188889",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8188889&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8188889",
+   "scope": "Netherlands"
+  },
+  {
+   "id": "greenhouse-mozilla-8188892",
+   "company": "Mozilla",
+   "title": "Senior Software Engineer, Add-Ons",
+   "location": "Remote Sweden; Remote Canada",
+   "posted": "2026-09-15",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8188892",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8188892",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8188892&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8188892",
+   "scope": "Sweden"
   },
   {
    "id": "greenhouse-moniepoint-4976360101",
@@ -8589,20 +8603,6 @@
    "scope": "Portugal"
   },
   {
-   "id": "greenhouse-moniepoint-4974176101",
-   "company": "Moniepoint",
-   "title": "Head of Engineering, Rewards",
-   "location": "Remote, Poland; Lagos, Nigeria",
-   "posted": "2026-09-11",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4974176101",
-   "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4974176101",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-moniepoint-4974176101&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-moniepoint-4974176101",
-   "scope": "Poland"
-  },
-  {
    "id": "greenhouse-moniepoint-4974177101",
    "company": "Moniepoint",
    "title": "Head of Engineering, Rewards",
@@ -8615,6 +8615,20 @@
    "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4974177101",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-moniepoint-4974177101&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-moniepoint-4974177101",
    "scope": "Spain"
+  },
+  {
+   "id": "greenhouse-moniepoint-4974176101",
+   "company": "Moniepoint",
+   "title": "Head of Engineering, Rewards",
+   "location": "Remote, Poland; Lagos, Nigeria",
+   "posted": "2026-09-11",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4974176101",
+   "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4974176101",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-moniepoint-4974176101&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-moniepoint-4974176101",
+   "scope": "Poland"
   },
   {
    "id": "greenhouse-moniepoint-4974182101",
@@ -8701,20 +8715,6 @@
    "scope": "Portugal"
   },
   {
-   "id": "greenhouse-reddit-8190630",
-   "company": "Reddit",
-   "title": "Trust and Safety Policy, Ads Policy, Lead (Europe)",
-   "location": "Remote - The Netherlands; Remote - Ireland",
-   "posted": "2026-09-10",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/reddit/jobs/8190630",
-   "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8190630",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-reddit-8190630&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-reddit-8190630",
-   "scope": "Netherlands"
-  },
-  {
    "id": "greenhouse-reddit-8190627",
    "company": "Reddit",
    "title": "Trust and Safety Policy, Ads Policy, Lead (Europe)",
@@ -8741,6 +8741,20 @@
    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8188275",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-reddit-8188275&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-reddit-8188275",
    "scope": "Ireland"
+  },
+  {
+   "id": "greenhouse-reddit-8190630",
+   "company": "Reddit",
+   "title": "Trust and Safety Policy, Ads Policy, Lead (Europe)",
+   "location": "Remote - The Netherlands; Remote - Ireland",
+   "posted": "2026-09-10",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8190630",
+   "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8190630",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-reddit-8190630&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-reddit-8190630",
+   "scope": "Netherlands"
   },
   {
    "id": "greenhouse-pingidentity-8784530002",
@@ -8771,6 +8785,20 @@
    "scope": "Portugal"
   },
   {
+   "id": "greenhouse-moniepoint-4972341101",
+   "company": "Moniepoint",
+   "title": "Head of Engineering, Sales Management Tools",
+   "location": "Remote, Poland; Lagos, Nigeria",
+   "posted": "2026-09-10",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972341101",
+   "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972341101",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-moniepoint-4972341101&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-moniepoint-4972341101",
+   "scope": "Poland"
+  },
+  {
    "id": "greenhouse-moniepoint-4972343101",
    "company": "Moniepoint",
    "title": "Head of Engineering, Sales Management Tools",
@@ -8796,34 +8824,6 @@
    "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972344101",
    "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972344101",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-moniepoint-4972344101&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-moniepoint-4972344101",
-   "scope": "Portugal"
-  },
-  {
-   "id": "greenhouse-moniepoint-4972341101",
-   "company": "Moniepoint",
-   "title": "Head of Engineering, Sales Management Tools",
-   "location": "Remote, Poland; Lagos, Nigeria",
-   "posted": "2026-09-10",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972341101",
-   "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972341101",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-moniepoint-4972341101&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-moniepoint-4972341101",
-   "scope": "Poland"
-  },
-  {
-   "id": "greenhouse-moniepoint-4972354101",
-   "company": "Moniepoint",
-   "title": "Head of Engineering, Field Verification",
-   "location": "Remote, Portugal; Lagos, Nigeria",
-   "posted": "2026-09-10",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972354101",
-   "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972354101",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-moniepoint-4972354101&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-moniepoint-4972354101",
    "scope": "Portugal"
   },
   {
@@ -8853,6 +8853,20 @@
    "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972351101",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-moniepoint-4972351101&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-moniepoint-4972351101",
    "scope": "Poland"
+  },
+  {
+   "id": "greenhouse-moniepoint-4972354101",
+   "company": "Moniepoint",
+   "title": "Head of Engineering, Field Verification",
+   "location": "Remote, Portugal; Lagos, Nigeria",
+   "posted": "2026-09-10",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972354101",
+   "apply_url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972354101",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-moniepoint-4972354101&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-moniepoint-4972354101",
+   "scope": "Portugal"
   },
   {
    "id": "ashby-elevenlabs-ba1c19cc-3b0e-4f3e-b7c1-a96d5fb4bbf9",
@@ -9569,18 +9583,18 @@
    "scope": "Poland"
   },
   {
-   "id": "greenhouse-affirm-7931496003",
+   "id": "greenhouse-affirm-7931494003",
    "company": "Affirm",
    "title": "Staff Software Engineer, Backend (Identity International)",
-   "location": "Remote Poland; Remote Spain; Remote UK",
+   "location": "Remote Spain; Remote Poland; Remote UK",
    "posted": "2026-08-28",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7931496003",
-   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7931496003",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-7931496003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-7931496003",
-   "scope": "Poland"
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7931494003",
+   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7931494003",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-7931494003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-7931494003",
+   "scope": "Spain"
   },
   {
    "id": "greenhouse-affirm-7979134003",
@@ -9597,18 +9611,18 @@
    "scope": "Poland"
   },
   {
-   "id": "greenhouse-affirm-7931494003",
+   "id": "greenhouse-affirm-7931496003",
    "company": "Affirm",
    "title": "Staff Software Engineer, Backend (Identity International)",
-   "location": "Remote Spain; Remote Poland; Remote UK",
+   "location": "Remote Poland; Remote Spain; Remote UK",
    "posted": "2026-08-28",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7931494003",
-   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7931494003",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-7931494003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-7931494003",
-   "scope": "Spain"
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7931496003",
+   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7931496003",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-7931496003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-7931496003",
+   "scope": "Poland"
   },
   {
    "id": "lever-veeva-69d4d6bc-966c-45d6-a6da-a4d4caa58398",
@@ -9821,74 +9835,18 @@
    "scope": "EMEA"
   },
   {
-   "id": "greenhouse-mozilla-8153458",
+   "id": "greenhouse-mozilla-8154244",
    "company": "Mozilla",
    "title": "Senior Product Manager, Mobile",
-   "location": "Remote Spain; Remote Germany",
+   "location": "Remote Canada; Remote Germany",
    "posted": "2026-08-24",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8153458",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153458",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8153458&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8153458",
-   "scope": "Spain"
-  },
-  {
-   "id": "greenhouse-mozilla-8153435",
-   "company": "Mozilla",
-   "title": "Senior Product Manager, Mobile",
-   "location": "Remote Netherlands; Remote Germany",
-   "posted": "2026-08-24",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8153435",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153435",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8153435&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8153435",
-   "scope": "Netherlands"
-  },
-  {
-   "id": "greenhouse-mozilla-8153417",
-   "company": "Mozilla",
-   "title": "Senior Product Manager, Mobile",
-   "location": "Remote Belgium; Remote Germany",
-   "posted": "2026-08-24",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8153417",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153417",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8153417&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8153417",
-   "scope": "Belgium"
-  },
-  {
-   "id": "greenhouse-mozilla-8153386",
-   "company": "Mozilla",
-   "title": "Senior Product Manager, Mobile",
-   "location": "Remote UK; Remote Germany",
-   "posted": "2026-08-24",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8153386",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153386",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8153386&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8153386",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8154244",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8154244",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8154244&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8154244",
    "scope": "Germany"
-  },
-  {
-   "id": "greenhouse-mozilla-8153352",
-   "company": "Mozilla",
-   "title": "Senior Product Manager, Mobile",
-   "location": "Remote France; Remote Germany",
-   "posted": "2026-08-24",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8153352",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153352",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8153352&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8153352",
-   "scope": "France"
   },
   {
    "id": "greenhouse-mozilla-7931363",
@@ -9919,18 +9877,60 @@
    "scope": "Sweden"
   },
   {
-   "id": "greenhouse-mozilla-8154244",
+   "id": "greenhouse-mozilla-8153386",
    "company": "Mozilla",
    "title": "Senior Product Manager, Mobile",
-   "location": "Remote Canada; Remote Germany",
+   "location": "Remote UK; Remote Germany",
    "posted": "2026-08-24",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8154244",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8154244",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8154244&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8154244",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8153386",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153386",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8153386&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8153386",
    "scope": "Germany"
+  },
+  {
+   "id": "greenhouse-mozilla-8153417",
+   "company": "Mozilla",
+   "title": "Senior Product Manager, Mobile",
+   "location": "Remote Belgium; Remote Germany",
+   "posted": "2026-08-24",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8153417",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153417",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8153417&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8153417",
+   "scope": "Belgium"
+  },
+  {
+   "id": "greenhouse-mozilla-8153435",
+   "company": "Mozilla",
+   "title": "Senior Product Manager, Mobile",
+   "location": "Remote Netherlands; Remote Germany",
+   "posted": "2026-08-24",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8153435",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153435",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8153435&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8153435",
+   "scope": "Netherlands"
+  },
+  {
+   "id": "greenhouse-mozilla-8153458",
+   "company": "Mozilla",
+   "title": "Senior Product Manager, Mobile",
+   "location": "Remote Spain; Remote Germany",
+   "posted": "2026-08-24",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8153458",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153458",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8153458&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8153458",
+   "scope": "Spain"
   },
   {
    "id": "greenhouse-mozilla-8153530",
@@ -9945,6 +9945,20 @@
    "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153530",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8153530&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8153530",
    "scope": "Finland"
+  },
+  {
+   "id": "greenhouse-mozilla-8153352",
+   "company": "Mozilla",
+   "title": "Senior Product Manager, Mobile",
+   "location": "Remote France; Remote Germany",
+   "posted": "2026-08-24",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8153352",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153352",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-8153352&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-8153352",
+   "scope": "France"
   },
   {
    "id": "ashby-mollie-ecb45896-a587-4f62-9edc-16ec72bfe9f5",
@@ -10059,6 +10073,20 @@
    "scope": "Netherlands"
   },
   {
+   "id": "greenhouse-wizinc-4707178006",
+   "company": "Wiz",
+   "title": "Security Engineer - Product",
+   "location": "Paris, France; Remote - France; United Kingdom",
+   "posted": "2026-08-21",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://www.wiz.io/careers/job/4707178006/:title?gh_jid=4707178006",
+   "apply_url": "https://www.wiz.io/careers/job/4707178006/:title?gh_jid=4707178006",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wizinc-4707178006&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wizinc-4707178006",
+   "scope": "France"
+  },
+  {
    "id": "greenhouse-wizinc-4707179006",
    "company": "Wiz",
    "title": "Security Engineer - Product",
@@ -10085,20 +10113,6 @@
    "apply_url": "https://www.wiz.io/careers/job/4707180006/:title?gh_jid=4707180006",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wizinc-4707180006&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wizinc-4707180006",
    "scope": "Ireland"
-  },
-  {
-   "id": "greenhouse-wizinc-4707178006",
-   "company": "Wiz",
-   "title": "Security Engineer - Product",
-   "location": "Paris, France; Remote - France; United Kingdom",
-   "posted": "2026-08-21",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://www.wiz.io/careers/job/4707178006/:title?gh_jid=4707178006",
-   "apply_url": "https://www.wiz.io/careers/job/4707178006/:title?gh_jid=4707178006",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wizinc-4707178006&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wizinc-4707178006",
-   "scope": "France"
   },
   {
    "id": "greenhouse-starburst-5397317008",
@@ -10353,6 +10367,20 @@
    "scope": "France"
   },
   {
+   "id": "greenhouse-databricks-8720251002",
+   "company": "Databricks",
+   "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
+   "location": "Paris, France; Remote - France",
+   "posted": "2026-08-17",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-databricks-8720251002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-databricks-8720251002",
+   "scope": "France"
+  },
+  {
    "id": "greenhouse-databricks-8720254002",
    "company": "Databricks",
    "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
@@ -10378,20 +10406,6 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002",
    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-databricks-8704938002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-databricks-8704938002",
-   "scope": "France"
-  },
-  {
-   "id": "greenhouse-databricks-8720251002",
-   "company": "Databricks",
-   "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
-   "location": "Paris, France; Remote - France",
-   "posted": "2026-08-17",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002",
-   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-databricks-8720251002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-databricks-8720251002",
    "scope": "France"
   },
   {
@@ -10941,20 +10955,6 @@
    "scope": "France"
   },
   {
-   "id": "greenhouse-affirm-7820446003",
-   "company": "Affirm",
-   "title": "Senior Software Engineer, Backend (Card Integrations and Payments Experience)",
-   "location": "Remote Spain; Remote Poland",
-   "posted": "2026-08-05",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003",
-   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-7820446003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-7820446003",
-   "scope": "Spain"
-  },
-  {
    "id": "greenhouse-affirm-7820448003",
    "company": "Affirm",
    "title": "Senior Software Engineer, Backend (Card Integrations and Payments Experience)",
@@ -10967,6 +10967,20 @@
    "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7820448003",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-7820448003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-7820448003",
    "scope": "Poland"
+  },
+  {
+   "id": "greenhouse-affirm-7820446003",
+   "company": "Affirm",
+   "title": "Senior Software Engineer, Backend (Card Integrations and Payments Experience)",
+   "location": "Remote Spain; Remote Poland",
+   "posted": "2026-08-05",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003",
+   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-7820446003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-7820446003",
+   "scope": "Spain"
   },
   {
    "id": "greenhouse-moniepoint-4944062101",
@@ -11683,20 +11697,6 @@
    "scope": "Spain"
   },
   {
-   "id": "greenhouse-affirm-7799935003",
-   "company": "Affirm",
-   "title": "Senior Software Engineer, Mobile (Repayment UX)",
-   "location": "Remote Spain; Remote Poland",
-   "posted": "2026-07-14",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7799935003",
-   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7799935003",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-7799935003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-7799935003",
-   "scope": "Spain"
-  },
-  {
    "id": "greenhouse-affirm-7799933003",
    "company": "Affirm",
    "title": "Senior Software Engineer, Mobile (Repayment UX)",
@@ -11709,6 +11709,20 @@
    "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7799933003",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-7799933003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-7799933003",
    "scope": "Poland"
+  },
+  {
+   "id": "greenhouse-affirm-7799935003",
+   "company": "Affirm",
+   "title": "Senior Software Engineer, Mobile (Repayment UX)",
+   "location": "Remote Spain; Remote Poland",
+   "posted": "2026-07-14",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7799935003",
+   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7799935003",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-affirm-7799935003&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-affirm-7799935003",
+   "scope": "Spain"
   },
   {
    "id": "ashby-elevenlabs-0dbfbe3e-7218-4045-ba78-28b0d2e5ab6d",
@@ -12495,20 +12509,6 @@
    "scope": "Bulgaria"
   },
   {
-   "id": "greenhouse-wrike-4701769005",
-   "company": "Wrike",
-   "title": "Group Product Manager (Core)",
-   "location": "Cyprus - Remote; Cyprus; Czech Republic",
-   "posted": "2026-06-02",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/wrike/jobs/4701769005",
-   "apply_url": "https://job-boards.greenhouse.io/wrike/jobs/4701769005",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wrike-4701769005&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wrike-4701769005",
-   "scope": "Cyprus"
-  },
-  {
    "id": "greenhouse-wrike-4701772005",
    "company": "Wrike",
    "title": "Group Product Manager (Core)",
@@ -12521,6 +12521,20 @@
    "apply_url": "https://job-boards.greenhouse.io/wrike/jobs/4701772005",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wrike-4701772005&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wrike-4701772005",
    "scope": "Czechia"
+  },
+  {
+   "id": "greenhouse-wrike-4701769005",
+   "company": "Wrike",
+   "title": "Group Product Manager (Core)",
+   "location": "Cyprus - Remote; Cyprus; Czech Republic",
+   "posted": "2026-06-02",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/wrike/jobs/4701769005",
+   "apply_url": "https://job-boards.greenhouse.io/wrike/jobs/4701769005",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wrike-4701769005&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wrike-4701769005",
+   "scope": "Cyprus"
   },
   {
    "id": "ashby-cohere-82ec1512-5bc3-49dd-b995-b6abc2a958d7",
@@ -12719,20 +12733,6 @@
    "scope": "EMEA"
   },
   {
-   "id": "greenhouse-mozilla-7921523",
-   "company": "Mozilla",
-   "title": "Senior Solutions Engineer (DACH), Firefox Enterprise",
-   "location": "Remote; Remote Germany",
-   "posted": "2026-05-13",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/7921523",
-   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/7921523",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-7921523&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-7921523",
-   "scope": "Germany"
-  },
-  {
    "id": "greenhouse-mozilla-7921645",
    "company": "Mozilla",
    "title": "Senior Solutions Engineer (DACH), Firefox Enterprise",
@@ -12744,6 +12744,20 @@
    "url": "https://job-boards.greenhouse.io/mozilla/jobs/7921645",
    "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/7921645",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-7921645&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-7921645",
+   "scope": "Germany"
+  },
+  {
+   "id": "greenhouse-mozilla-7921523",
+   "company": "Mozilla",
+   "title": "Senior Solutions Engineer (DACH), Firefox Enterprise",
+   "location": "Remote; Remote Germany",
+   "posted": "2026-05-13",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/7921523",
+   "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/7921523",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-mozilla-7921523&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-mozilla-7921523",
    "scope": "Germany"
   },
   {
@@ -13237,20 +13251,6 @@
    "scope": "Poland"
   },
   {
-   "id": "greenhouse-algolia-5854606004",
-   "company": "Algolia",
-   "title": "Commercial Account Executive, DACH",
-   "location": "Remote - Germany",
-   "posted": "2026-04-07",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/algolia/jobs/5854606004",
-   "apply_url": "https://job-boards.greenhouse.io/algolia/jobs/5854606004",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-algolia-5854606004&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-algolia-5854606004",
-   "scope": "Germany"
-  },
-  {
    "id": "greenhouse-algolia-5854568004",
    "company": "Algolia",
    "title": "Commercial Account Executive, DACH",
@@ -13276,6 +13276,20 @@
    "url": "https://job-boards.greenhouse.io/algolia/jobs/5842399004",
    "apply_url": "https://job-boards.greenhouse.io/algolia/jobs/5842399004",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-algolia-5842399004&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-algolia-5842399004",
+   "scope": "Germany"
+  },
+  {
+   "id": "greenhouse-algolia-5854606004",
+   "company": "Algolia",
+   "title": "Commercial Account Executive, DACH",
+   "location": "Remote - Germany",
+   "posted": "2026-04-07",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/algolia/jobs/5854606004",
+   "apply_url": "https://job-boards.greenhouse.io/algolia/jobs/5854606004",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-algolia-5854606004&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-algolia-5854606004",
    "scope": "Germany"
   },
   {
