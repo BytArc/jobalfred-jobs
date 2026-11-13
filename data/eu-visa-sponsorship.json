@@ -1,12 +1,27 @@
 {
  "list": "eu-visa-sponsorship",
  "title": "EU roles that state visa sponsorship",
- "built": "2026-11-12T13:45:09+00:00",
+ "built": "2026-11-13T13:05:39+00:00",
  "count": 32,
  "licence": "CC-BY-4.0",
  "source_note": "Built only from official public job-board APIs: Greenhouse Job Board API, Lever Postings API and Ashby public job posting API. Job descriptions are read for matching and are not stored.",
  "disclaimer": "**Please confirm before you rely on this.** A posting saying it offers sponsorship is not a guarantee. Each row here quotes a posting that says so in its own words; JobAlfred never infers sponsorship and cannot see an employer's current policy. Confirm with the employer in writing that sponsorship applies to your role, your nationality and your country, before you resign, move or pay for anything. This is not immigration advice.",
  "jobs": [
+  {
+   "id": "ashby-n8n-382a3804-81de-46fb-ade3-87e3da72572d",
+   "company": "n8n",
+   "title": "Support Systems & Programs Lead | Europe Remote",
+   "location": "Berlin Office; Denmark; Estonia; Latvia; Slovenia; Hungary; Portugal; Poland; Serbia; Germany; Austria; Finland; Ireland; Bulgaria; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece",
+   "posted": "2026-11-13",
+   "posted_kind": "published",
+   "ats": "ashby",
+   "first_seen": "2026-11-13",
+   "url": "https://jobs.ashbyhq.com/n8n/382a3804-81de-46fb-ade3-87e3da72572d",
+   "apply_url": "https://jobs.ashbyhq.com/n8n/382a3804-81de-46fb-ade3-87e3da72572d",
+   "fill_url": "https://jobalfred.com/go/?list=eu-visa-sponsorship&job=ashby-n8n-382a3804-81de-46fb-ade3-87e3da72572d&utm_source=github&utm_medium=job_list&utm_campaign=eu_visa&utm_content=ashby-n8n-382a3804-81de-46fb-ade3-87e3da72572d",
+   "country": "Germany",
+   "quote": "We can sponsor visas to Germany"
+  },
   {
    "id": "ashby-n8n-fb5e4f97-a769-4b87-95f4-bdc5e4c3b031",
    "company": "n8n",
@@ -424,21 +439,6 @@
    "url": "https://jobs.ashbyhq.com/n8n/b45f4511-fae8-4ea1-ae88-f17d26f13acb",
    "apply_url": "https://jobs.ashbyhq.com/n8n/b45f4511-fae8-4ea1-ae88-f17d26f13acb",
    "fill_url": "https://jobalfred.com/go/?list=eu-visa-sponsorship&job=ashby-n8n-b45f4511-fae8-4ea1-ae88-f17d26f13acb&utm_source=github&utm_medium=job_list&utm_campaign=eu_visa&utm_content=ashby-n8n-b45f4511-fae8-4ea1-ae88-f17d26f13acb",
-   "country": "Germany",
-   "quote": "We can sponsor visas to Germany"
-  },
-  {
-   "id": "ashby-n8n-ea8efc33-c7b8-4b88-826c-3dca17c3aa47",
-   "company": "n8n",
-   "title": "Staff Core Platform Engineer",
-   "location": "Berlin Office; Bosnia; Romania; Norway; Estonia; Latvia; Netherlands; Hungary; Portugal; Poland; Serbia; Germany; Austria; Finland; Albania; Lithuania; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; Georgia; United Kingdom; Croatia; Spain; Greece",
-   "posted": "2026-08-11",
-   "posted_kind": "published",
-   "ats": "ashby",
-   "first_seen": "2026-11-05",
-   "url": "https://jobs.ashbyhq.com/n8n/ea8efc33-c7b8-4b88-826c-3dca17c3aa47",
-   "apply_url": "https://jobs.ashbyhq.com/n8n/ea8efc33-c7b8-4b88-826c-3dca17c3aa47",
-   "fill_url": "https://jobalfred.com/go/?list=eu-visa-sponsorship&job=ashby-n8n-ea8efc33-c7b8-4b88-826c-3dca17c3aa47&utm_source=github&utm_medium=job_list&utm_campaign=eu_visa&utm_content=ashby-n8n-ea8efc33-c7b8-4b88-826c-3dca17c3aa47",
    "country": "Germany",
    "quote": "We can sponsor visas to Germany"
   },
