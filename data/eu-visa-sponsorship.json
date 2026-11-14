@@ -1,8 +1,8 @@
 {
  "list": "eu-visa-sponsorship",
  "title": "EU roles that state visa sponsorship",
- "built": "2026-11-13T13:05:39+00:00",
- "count": 32,
+ "built": "2026-11-14T12:10:19+00:00",
+ "count": 31,
  "licence": "CC-BY-4.0",
  "source_note": "Built only from official public job-board APIs: Greenhouse Job Board API, Lever Postings API and Ashby public job posting API. Job descriptions are read for matching and are not stored.",
  "disclaimer": "**Please confirm before you rely on this.** A posting saying it offers sponsorship is not a guarantee. Each row here quotes a posting that says so in its own words; JobAlfred never infers sponsorship and cannot see an employer's current policy. Confirm with the employer in writing that sponsorship applies to your role, your nationality and your country, before you resign, move or pay for anything. This is not immigration advice.",
@@ -155,21 +155,6 @@
    "apply_url": "https://jobs.ashbyhq.com/n8n/473bcbae-ad3e-4611-8ca3-3499040e5f22",
    "fill_url": "https://jobalfred.com/go/?list=eu-visa-sponsorship&job=ashby-n8n-473bcbae-ad3e-4611-8ca3-3499040e5f22&utm_source=github&utm_medium=job_list&utm_campaign=eu_visa&utm_content=ashby-n8n-473bcbae-ad3e-4611-8ca3-3499040e5f22",
    "country": "Germany",
-   "quote": "We can sponsor visas to Germany"
-  },
-  {
-   "id": "ashby-n8n-01e97911-afbc-4d4b-bdc7-ea6cd5e51662",
-   "company": "n8n",
-   "title": "Enterprise Sales Leader",
-   "location": "London Office; Netherlands; Germany; Ireland; United Kingdom",
-   "posted": "2026-11-02",
-   "posted_kind": "published",
-   "ats": "ashby",
-   "first_seen": "2026-11-12",
-   "url": "https://jobs.ashbyhq.com/n8n/01e97911-afbc-4d4b-bdc7-ea6cd5e51662",
-   "apply_url": "https://jobs.ashbyhq.com/n8n/01e97911-afbc-4d4b-bdc7-ea6cd5e51662",
-   "fill_url": "https://jobalfred.com/go/?list=eu-visa-sponsorship&job=ashby-n8n-01e97911-afbc-4d4b-bdc7-ea6cd5e51662&utm_source=github&utm_medium=job_list&utm_campaign=eu_visa&utm_content=ashby-n8n-01e97911-afbc-4d4b-bdc7-ea6cd5e51662",
-   "country": "Netherlands",
    "quote": "We can sponsor visas to Germany"
   },
   {
