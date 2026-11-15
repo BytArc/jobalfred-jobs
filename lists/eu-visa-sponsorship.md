@@ -6,7 +6,7 @@ Roles in the EU-27 whose posting says in plain words that sponsorship is offered
 
 **Looking for more? [Search over 1.5 million jobs on jobalfred.com](https://jobalfred.com/jobs/?utm_source=github&utm_medium=job_list&utm_campaign=eu_visa).**
 
-**31 open roles.** Refreshed 14 Nov 2026, 12:10 UTC. Closed roles are removed on every run.
+**31 open roles.** Refreshed 15 Nov 2026, 12:43 UTC. Closed roles are removed on every run.
 
 [Fill applications with JobAlfred](https://jobalfred.com/go/?list=eu-visa-sponsorship&job=banner&utm_source=github&utm_medium=job_list&utm_campaign=eu_visa&utm_content=banner): a free Chrome extension that fills the form from your CV. You check every answer and press Submit yourself.
 

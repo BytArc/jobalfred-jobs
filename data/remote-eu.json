@@ -1,11 +1,53 @@
 {
  "list": "remote-eu",
  "title": "Remote roles in the EU",
- "built": "2026-11-14T12:10:19+00:00",
- "count": 1021,
+ "built": "2026-11-15T12:43:08+00:00",
+ "count": 1020,
  "licence": "CC-BY-4.0",
  "source_note": "Built only from official public job-board APIs: Greenhouse Job Board API, Lever Postings API and Ashby public job posting API. Job descriptions are read for matching and are not stored.",
  "jobs": [
+  {
+   "id": "greenhouse-gitlab-8937862002",
+   "company": "GitLab",
+   "title": "Senior Engagement Manager - Professional Services Sales, EMEA",
+   "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Spain; Remote, United Kingdom; Turkey",
+   "posted": "2026-11-15",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-15",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937862002",
+   "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8937862002",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-gitlab-8937862002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-gitlab-8937862002",
+   "scope": "Ireland"
+  },
+  {
+   "id": "greenhouse-gitlab-8937803002",
+   "company": "GitLab",
+   "title": "Customer Success Architect, France",
+   "location": "Remote, France; Turkey",
+   "posted": "2026-11-15",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-15",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937803002",
+   "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8937803002",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-gitlab-8937803002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-gitlab-8937803002",
+   "scope": "France"
+  },
+  {
+   "id": "ashby-langchain-ebfd7cd4-c9cd-46bd-b406-3fadaffcecef",
+   "company": "LangChain",
+   "title": "Regional Vice President, Sales DACH",
+   "location": "Germany",
+   "posted": "2026-11-14",
+   "posted_kind": "published",
+   "ats": "ashby",
+   "first_seen": "2026-11-15",
+   "url": "https://jobs.ashbyhq.com/langchain/ebfd7cd4-c9cd-46bd-b406-3fadaffcecef",
+   "apply_url": "https://jobs.ashbyhq.com/langchain/ebfd7cd4-c9cd-46bd-b406-3fadaffcecef",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=ashby-langchain-ebfd7cd4-c9cd-46bd-b406-3fadaffcecef&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=ashby-langchain-ebfd7cd4-c9cd-46bd-b406-3fadaffcecef",
+   "scope": "Germany"
+  },
   {
    "id": "lever-veeva-e04083db-8370-46f8-94c6-683cb2cd8795",
    "company": "Veeva",
@@ -4361,20 +4403,6 @@
    "scope": "Germany"
   },
   {
-   "id": "greenhouse-gitlab-8911335002",
-   "company": "GitLab",
-   "title": "Senior Engagement Manager, PS Sales - EMEA",
-   "location": "Remote Ireland; Remote, Germany; Remote, Spain; Remote, United Kingdom; Germany",
-   "posted": "2026-10-23",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8911335002",
-   "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8911335002",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-gitlab-8911335002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-gitlab-8911335002",
-   "scope": "Ireland"
-  },
-  {
    "id": "greenhouse-gitlab-8911684002",
    "company": "GitLab",
    "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
@@ -5915,20 +5943,6 @@
    "scope": "Germany"
   },
   {
-   "id": "greenhouse-databricks-8892970002",
-   "company": "Databricks",
-   "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
-   "location": "Remote - France; London, United Kingdom",
-   "posted": "2026-10-15",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002",
-   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-databricks-8892970002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-databricks-8892970002",
-   "scope": "France"
-  },
-  {
    "id": "greenhouse-databricks-8892968002",
    "company": "Databricks",
    "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
@@ -5941,6 +5955,20 @@
    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892968002",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-databricks-8892968002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-databricks-8892968002",
    "scope": "Sweden"
+  },
+  {
+   "id": "greenhouse-databricks-8892970002",
+   "company": "Databricks",
+   "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+   "location": "Remote - France; London, United Kingdom",
+   "posted": "2026-10-15",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-databricks-8892970002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-databricks-8892970002",
+   "scope": "France"
   },
   {
    "id": "ashby-cohere-f74933db-e97f-41c9-97ab-daa57880a12b",
@@ -5957,20 +5985,6 @@
    "scope": "Germany"
   },
   {
-   "id": "greenhouse-samsara-8281650",
-   "company": "Samsara",
-   "title": "Senior Security Operations Engineer",
-   "location": "Remote - Poland; Remote - UK",
-   "posted": "2026-10-14",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-13",
-   "url": "https://www.samsara.com/company/careers/roles/8281650?gh_jid=8281650",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8281650?gh_jid=8281650",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-samsara-8281650&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-samsara-8281650",
-   "scope": "Poland"
-  },
-  {
    "id": "greenhouse-samsara-8281636",
    "company": "Samsara",
    "title": "Senior Security Operations Engineer",
@@ -5983,6 +5997,20 @@
    "apply_url": "https://www.samsara.com/company/careers/roles/8281636?gh_jid=8281636",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-samsara-8281636&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-samsara-8281636",
    "scope": "Netherlands"
+  },
+  {
+   "id": "greenhouse-samsara-8281650",
+   "company": "Samsara",
+   "title": "Senior Security Operations Engineer",
+   "location": "Remote - Poland; Remote - UK",
+   "posted": "2026-10-14",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-13",
+   "url": "https://www.samsara.com/company/careers/roles/8281650?gh_jid=8281650",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8281650?gh_jid=8281650",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-samsara-8281650&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-samsara-8281650",
+   "scope": "Poland"
   },
   {
    "id": "greenhouse-rubrik-8158839",
@@ -10983,17 +11011,17 @@
    "scope": "Estonia"
   },
   {
-   "id": "greenhouse-databricks-8704938002",
+   "id": "greenhouse-databricks-8720254002",
    "company": "Databricks",
    "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
-   "location": "London, United Kingdom; Remote - France",
+   "location": "Milan, Italy; Remote - France",
    "posted": "2026-08-17",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002",
-   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-databricks-8704938002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-databricks-8704938002",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720254002",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720254002",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-databricks-8720254002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-databricks-8720254002",
    "scope": "France"
   },
   {
@@ -11025,20 +11053,6 @@
    "scope": "France"
   },
   {
-   "id": "greenhouse-databricks-8720254002",
-   "company": "Databricks",
-   "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
-   "location": "Milan, Italy; Remote - France",
-   "posted": "2026-08-17",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720254002",
-   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720254002",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-databricks-8720254002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-databricks-8720254002",
-   "scope": "France"
-  },
-  {
    "id": "greenhouse-databricks-8720251002",
    "company": "Databricks",
    "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
@@ -11050,6 +11064,20 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002",
    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-databricks-8720251002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-databricks-8720251002",
+   "scope": "France"
+  },
+  {
+   "id": "greenhouse-databricks-8704938002",
+   "company": "Databricks",
+   "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
+   "location": "London, United Kingdom; Remote - France",
+   "posted": "2026-08-17",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002",
+   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-databricks-8704938002&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-databricks-8704938002",
    "scope": "France"
   },
   {
@@ -14257,48 +14285,6 @@
    "apply_url": "https://jobs.ashbyhq.com/lovable/00ad65ae-2d29-41cf-898e-248ddf8ca7ae",
    "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=ashby-lovable-00ad65ae-2d29-41cf-898e-248ddf8ca7ae&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=ashby-lovable-00ad65ae-2d29-41cf-898e-248ddf8ca7ae",
    "scope": "Sweden"
-  },
-  {
-   "id": "greenhouse-wrike-4630650005",
-   "company": "Wrike",
-   "title": "Senior Professional Services Consultant- German",
-   "location": "Estonia - Remote; Czech Republic; Ireland - Remote",
-   "posted": "2025-11-14",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-11",
-   "url": "https://job-boards.greenhouse.io/wrike/jobs/4630650005",
-   "apply_url": "https://job-boards.greenhouse.io/wrike/jobs/4630650005",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wrike-4630650005&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wrike-4630650005",
-   "scope": "Estonia"
-  },
-  {
-   "id": "greenhouse-wrike-4630649005",
-   "company": "Wrike",
-   "title": "Senior Professional Services Consultant - German",
-   "location": "Nicosia; Czech Republic; Estonia - Remote; Ireland - Remote",
-   "posted": "2025-11-14",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-11",
-   "url": "https://job-boards.greenhouse.io/wrike/jobs/4630649005",
-   "apply_url": "https://job-boards.greenhouse.io/wrike/jobs/4630649005",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=greenhouse-wrike-4630649005&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=greenhouse-wrike-4630649005",
-   "scope": "Estonia"
-  },
-  {
-   "id": "lever-veeva-b3e2ec35-5faa-41d0-8c50-09f422ff0c61",
-   "company": "Veeva",
-   "title": "Implementation Consultant - Commercial (Remote or Onsite)",
-   "location": "Germany - Berlin",
-   "posted": "2025-11-14",
-   "posted_kind": "created",
-   "ats": "lever",
-   "first_seen": "2026-11-05",
-   "url": "https://jobs.lever.co/veeva/b3e2ec35-5faa-41d0-8c50-09f422ff0c61",
-   "apply_url": "https://jobs.lever.co/veeva/b3e2ec35-5faa-41d0-8c50-09f422ff0c61",
-   "fill_url": "https://jobalfred.com/go/?list=remote-eu&job=lever-veeva-b3e2ec35-5faa-41d0-8c50-09f422ff0c61&utm_source=github&utm_medium=job_list&utm_campaign=remote_eu&utm_content=lever-veeva-b3e2ec35-5faa-41d0-8c50-09f422ff0c61",
-   "scope": "Germany"
   }
  ]
 }
