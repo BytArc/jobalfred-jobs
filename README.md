@@ -11,14 +11,14 @@ Free lists of open roles, built from employers' own public job boards and refres
 Every Apply link goes straight to the employer. Closed roles are removed on every run.
 
 <!-- counts:start -->
-Refreshed 16 Nov 2026, 13:37 UTC.
+Refreshed 17 Nov 2026, 14:22 UTC.
 
 | List | Open roles | Table | JSON |
 | --- | --- | --- | --- |
-| India roles at global companies | 1065 | [Open](lists/india-gcc.md) | [india-gcc.json](data/india-gcc.json) |
-| Remote roles in the EU | 1015 | [Open](lists/remote-eu.md) | [remote-eu.json](data/remote-eu.json) |
-| Roles in Portugal | 331 | [Open](lists/portugal.md) | [portugal.json](data/portugal.json) |
-| EU roles that state visa sponsorship | 33 | [Open](lists/eu-visa-sponsorship.md) | [eu-visa-sponsorship.json](data/eu-visa-sponsorship.json) |
+| India roles at global companies | 1068 | [Open](lists/india-gcc.md) | [india-gcc.json](data/india-gcc.json) |
+| Remote roles in the EU | 1001 | [Open](lists/remote-eu.md) | [remote-eu.json](data/remote-eu.json) |
+| Roles in Portugal | 323 | [Open](lists/portugal.md) | [portugal.json](data/portugal.json) |
+| EU roles that state visa sponsorship | 34 | [Open](lists/eu-visa-sponsorship.md) | [eu-visa-sponsorship.json](data/eu-visa-sponsorship.json) |
 <!-- counts:end -->
 
 ## Before you apply

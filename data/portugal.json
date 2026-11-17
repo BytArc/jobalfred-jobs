@@ -1,11 +1,37 @@
 {
  "list": "portugal",
  "title": "Roles in Portugal",
- "built": "2026-11-16T13:37:29+00:00",
- "count": 331,
+ "built": "2026-11-17T14:22:26+00:00",
+ "count": 323,
  "licence": "CC-BY-4.0",
  "source_note": "Built only from official public job-board APIs: Greenhouse Job Board API, Lever Postings API and Ashby public job posting API. Job descriptions are read for matching and are not stored.",
  "jobs": [
+  {
+   "id": "lever-farfetch-51adf214-6ca3-4782-9732-63feaa3b2a57",
+   "company": "Farfetch",
+   "title": "Talent Acquisition Specialist - FTC",
+   "location": "PT Lisboa, Portugal",
+   "posted": "2026-11-17",
+   "posted_kind": "created",
+   "ats": "lever",
+   "first_seen": "2026-11-17",
+   "url": "https://jobs.lever.co/farfetch/51adf214-6ca3-4782-9732-63feaa3b2a57",
+   "apply_url": "https://jobs.lever.co/farfetch/51adf214-6ca3-4782-9732-63feaa3b2a57",
+   "fill_url": "https://jobalfred.com/go/?list=portugal&job=lever-farfetch-51adf214-6ca3-4782-9732-63feaa3b2a57&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=lever-farfetch-51adf214-6ca3-4782-9732-63feaa3b2a57"
+  },
+  {
+   "id": "lever-farfetch-725c61e0-c7f7-42d5-8500-1a8e829af439",
+   "company": "Farfetch",
+   "title": "Talent Acquisition Specialist - FTC",
+   "location": "Porto",
+   "posted": "2026-11-17",
+   "posted_kind": "created",
+   "ats": "lever",
+   "first_seen": "2026-11-17",
+   "url": "https://jobs.lever.co/farfetch/725c61e0-c7f7-42d5-8500-1a8e829af439",
+   "apply_url": "https://jobs.lever.co/farfetch/725c61e0-c7f7-42d5-8500-1a8e829af439",
+   "fill_url": "https://jobalfred.com/go/?list=portugal&job=lever-farfetch-725c61e0-c7f7-42d5-8500-1a8e829af439&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=lever-farfetch-725c61e0-c7f7-42d5-8500-1a8e829af439"
+  },
   {
    "id": "greenhouse-wrike-4754441005",
    "company": "Wrike",
@@ -20,6 +46,19 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-wrike-4754441005&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-wrike-4754441005"
   },
   {
+   "id": "ashby-n8n-240f952d-fa35-4268-b84e-c5697024dab8",
+   "company": "n8n",
+   "title": "Manager, Customer Success (Remote - EMEA)",
+   "location": "Berlin Office; Norway; Estonia; Netherlands; Hungary; Portugal; Poland; Germany; Austria; Finland; Lithuania; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece",
+   "posted": "2026-11-16",
+   "posted_kind": "published",
+   "ats": "ashby",
+   "first_seen": "2026-11-17",
+   "url": "https://jobs.ashbyhq.com/n8n/240f952d-fa35-4268-b84e-c5697024dab8",
+   "apply_url": "https://jobs.ashbyhq.com/n8n/240f952d-fa35-4268-b84e-c5697024dab8",
+   "fill_url": "https://jobalfred.com/go/?list=portugal&job=ashby-n8n-240f952d-fa35-4268-b84e-c5697024dab8&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=ashby-n8n-240f952d-fa35-4268-b84e-c5697024dab8"
+  },
+  {
    "id": "ashby-n8n-c9fc97fa-a473-4133-b3cb-502785649ecd",
    "company": "n8n",
    "title": "Forward Deployed Engineer - EMEA",
@@ -31,6 +70,19 @@
    "url": "https://jobs.ashbyhq.com/n8n/c9fc97fa-a473-4133-b3cb-502785649ecd",
    "apply_url": "https://jobs.ashbyhq.com/n8n/c9fc97fa-a473-4133-b3cb-502785649ecd",
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=ashby-n8n-c9fc97fa-a473-4133-b3cb-502785649ecd&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=ashby-n8n-c9fc97fa-a473-4133-b3cb-502785649ecd"
+  },
+  {
+   "id": "greenhouse-gocardless-8385160",
+   "company": "GoCardless",
+   "title": "Senior Site Reliability Engineer (Database Focus)",
+   "location": "Lisbon, Portugal; London",
+   "posted": "2026-11-16",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-17",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8385160",
+   "apply_url": "https://job-boards.greenhouse.io/gocardless/jobs/8385160",
+   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-gocardless-8385160&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-gocardless-8385160"
   },
   {
    "id": "ashby-pleo-88379220-a1d2-4805-8523-e34ae1b825cb",
@@ -85,19 +137,6 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-flix-8932202002&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-flix-8932202002"
   },
   {
-   "id": "lever-farfetch-52f79b34-0c55-4ba9-9180-8e2be1bb114f",
-   "company": "Farfetch",
-   "title": "Head of Procurement",
-   "location": "Porto",
-   "posted": "2026-11-13",
-   "posted_kind": "created",
-   "ats": "lever",
-   "first_seen": "2026-11-14",
-   "url": "https://jobs.lever.co/farfetch/52f79b34-0c55-4ba9-9180-8e2be1bb114f",
-   "apply_url": "https://jobs.lever.co/farfetch/52f79b34-0c55-4ba9-9180-8e2be1bb114f",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=lever-farfetch-52f79b34-0c55-4ba9-9180-8e2be1bb114f&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=lever-farfetch-52f79b34-0c55-4ba9-9180-8e2be1bb114f"
-  },
-  {
    "id": "ashby-trustly-a5036be3-cbcd-48a7-85fa-98424f498b94",
    "company": "Trustly",
    "title": "Payments & Reconciliation Specialist",
@@ -139,7 +178,7 @@
   {
    "id": "ashby-n8n-804c5b7b-e9fe-45ab-aaa5-2b2f0800c2e1",
    "company": "n8n",
-   "title": "Large Enterprise Account Executive, Europe - South",
+   "title": "Enterprise Account Executive, Major Accounts (Europe - South)",
    "location": "Spain; Portugal; Greece",
    "posted": "2026-11-12",
    "posted_kind": "published",
@@ -332,19 +371,6 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=ashby-qonto-f0e01524-39cd-4353-b26e-a7044f95dcdf&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=ashby-qonto-f0e01524-39cd-4353-b26e-a7044f95dcdf"
   },
   {
-   "id": "ashby-pleo-802d0cbd-7b13-4c4a-8d54-0b1783bf0341",
-   "company": "Pleo",
-   "title": "Fraud Operations Analyst",
-   "location": "Portugal",
-   "posted": "2026-11-10",
-   "posted_kind": "published",
-   "ats": "ashby",
-   "first_seen": "2026-11-11",
-   "url": "https://jobs.ashbyhq.com/pleo/802d0cbd-7b13-4c4a-8d54-0b1783bf0341",
-   "apply_url": "https://jobs.ashbyhq.com/pleo/802d0cbd-7b13-4c4a-8d54-0b1783bf0341",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=ashby-pleo-802d0cbd-7b13-4c4a-8d54-0b1783bf0341&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=ashby-pleo-802d0cbd-7b13-4c4a-8d54-0b1783bf0341"
-  },
-  {
    "id": "ashby-n8n-24ad7d68-fac9-476c-b9fa-3410d73a6d7d",
    "company": "n8n",
    "title": "Staff Platform Engineer, Agentic Engineering",
@@ -384,32 +410,6 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-five9-6254257004&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-five9-6254257004"
   },
   {
-   "id": "lever-farfetch-68e29b2d-2822-477c-a776-1970d1384304",
-   "company": "Farfetch",
-   "title": "Freelancer Quality Technician",
-   "location": "PT Lisboa, Portugal",
-   "posted": "2026-11-10",
-   "posted_kind": "created",
-   "ats": "lever",
-   "first_seen": "2026-11-10",
-   "url": "https://jobs.lever.co/farfetch/68e29b2d-2822-477c-a776-1970d1384304",
-   "apply_url": "https://jobs.lever.co/farfetch/68e29b2d-2822-477c-a776-1970d1384304",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=lever-farfetch-68e29b2d-2822-477c-a776-1970d1384304&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=lever-farfetch-68e29b2d-2822-477c-a776-1970d1384304"
-  },
-  {
-   "id": "lever-farfetch-85800655-8962-4eb6-a469-4c61a28eb3be",
-   "company": "Farfetch",
-   "title": "Freelancer Quality Technician",
-   "location": "PT Guimarães, Portugal",
-   "posted": "2026-11-10",
-   "posted_kind": "created",
-   "ats": "lever",
-   "first_seen": "2026-11-10",
-   "url": "https://jobs.lever.co/farfetch/85800655-8962-4eb6-a469-4c61a28eb3be",
-   "apply_url": "https://jobs.lever.co/farfetch/85800655-8962-4eb6-a469-4c61a28eb3be",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=lever-farfetch-85800655-8962-4eb6-a469-4c61a28eb3be&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=lever-farfetch-85800655-8962-4eb6-a469-4c61a28eb3be"
-  },
-  {
    "id": "lever-farfetch-d7379078-0f3f-48a2-bc4f-41dd66ed1568",
    "company": "Farfetch",
    "title": "Analytics Manager",
@@ -421,19 +421,6 @@
    "url": "https://jobs.lever.co/farfetch/d7379078-0f3f-48a2-bc4f-41dd66ed1568",
    "apply_url": "https://jobs.lever.co/farfetch/d7379078-0f3f-48a2-bc4f-41dd66ed1568",
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=lever-farfetch-d7379078-0f3f-48a2-bc4f-41dd66ed1568&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=lever-farfetch-d7379078-0f3f-48a2-bc4f-41dd66ed1568"
-  },
-  {
-   "id": "greenhouse-elastic-8371663",
-   "company": "Elastic",
-   "title": "InfoSec Analyst - Business Enablement",
-   "location": "Portugal; Spain",
-   "posted": "2026-11-10",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-11",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8371663&gh_jid=8371663",
-   "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8371663&gh_jid=8371663",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-elastic-8371663&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-elastic-8371663"
   },
   {
    "id": "greenhouse-cloudflare-8359552",
@@ -696,19 +683,6 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=ashby-n8n-473bcbae-ad3e-4611-8ca3-3499040e5f22&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=ashby-n8n-473bcbae-ad3e-4611-8ca3-3499040e5f22"
   },
   {
-   "id": "greenhouse-flix-8928001002",
-   "company": "Flix",
-   "title": "Zendesk Manager / Developer of Solutions for Migrations into Zendesk (m/f/d)",
-   "location": "Lisbon; Lisboa, Lisboa, Portugal",
-   "posted": "2026-11-03",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://flix.careers/job/8928001002?gh_jid=8928001002",
-   "apply_url": "https://flix.careers/job/8928001002?gh_jid=8928001002",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-flix-8928001002&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-flix-8928001002"
-  },
-  {
    "id": "greenhouse-flix-8928000002",
    "company": "Flix",
    "title": "Zendesk Manager / Developer of Solutions for Migrations into Zendesk (m/f/d)",
@@ -720,6 +694,19 @@
    "url": "https://flix.careers/job/8928000002?gh_jid=8928000002",
    "apply_url": "https://flix.careers/job/8928000002?gh_jid=8928000002",
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-flix-8928000002&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-flix-8928000002"
+  },
+  {
+   "id": "greenhouse-flix-8928001002",
+   "company": "Flix",
+   "title": "Zendesk Manager / Developer of Solutions for Migrations into Zendesk (m/f/d)",
+   "location": "Lisbon; Lisboa, Lisboa, Portugal",
+   "posted": "2026-11-03",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://flix.careers/job/8928001002?gh_jid=8928001002",
+   "apply_url": "https://flix.careers/job/8928001002?gh_jid=8928001002",
+   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-flix-8928001002&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-flix-8928001002"
   },
   {
    "id": "greenhouse-flix-8928002002",
@@ -839,19 +826,6 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=ashby-trustly-bdb215cd-0945-45f9-904e-6b784c630f51&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=ashby-trustly-bdb215cd-0945-45f9-904e-6b784c630f51"
   },
   {
-   "id": "greenhouse-swordhealth-4474184009",
-   "company": "Sword Health",
-   "title": "Director of Quality Engineering",
-   "location": "Remote - Portugal",
-   "posted": "2026-11-02",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/swordhealth/jobs/4474184009",
-   "apply_url": "https://job-boards.greenhouse.io/swordhealth/jobs/4474184009",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-swordhealth-4474184009&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-swordhealth-4474184009"
-  },
-  {
    "id": "ashby-pleo-4c964de2-e937-4ac7-84e5-63568c120554",
    "company": "Pleo",
    "title": "Business Applications Specialist (Order to Cash)",
@@ -969,19 +943,6 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-moniepoint-5020768101&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-moniepoint-5020768101"
   },
   {
-   "id": "greenhouse-gocardless-8333573",
-   "company": "GoCardless",
-   "title": "Partner Solution Engineer III",
-   "location": "Lisbon, Portugal; Leeds; Lisbon",
-   "posted": "2026-10-29",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8333573",
-   "apply_url": "https://job-boards.greenhouse.io/gocardless/jobs/8333573",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-gocardless-8333573&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-gocardless-8333573"
-  },
-  {
    "id": "greenhouse-gocardless-8333586",
    "company": "GoCardless",
    "title": "Partner Solution Engineer III",
@@ -993,6 +954,19 @@
    "url": "https://job-boards.greenhouse.io/gocardless/jobs/8333586",
    "apply_url": "https://job-boards.greenhouse.io/gocardless/jobs/8333586",
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-gocardless-8333586&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-gocardless-8333586"
+  },
+  {
+   "id": "greenhouse-gocardless-8333573",
+   "company": "GoCardless",
+   "title": "Partner Solution Engineer III",
+   "location": "Lisbon, Portugal; Leeds; Lisbon",
+   "posted": "2026-10-29",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8333573",
+   "apply_url": "https://job-boards.greenhouse.io/gocardless/jobs/8333573",
+   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-gocardless-8333573&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-gocardless-8333573"
   },
   {
    "id": "greenhouse-cloudflare-8331153",
@@ -1918,19 +1892,6 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-cloudflare-8273693&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-cloudflare-8273693"
   },
   {
-   "id": "greenhouse-swordhealth-4442812009",
-   "company": "Sword Health",
-   "title": "Quality Engineer",
-   "location": "Remote - Portugal",
-   "posted": "2026-10-09",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/swordhealth/jobs/4442812009",
-   "apply_url": "https://job-boards.greenhouse.io/swordhealth/jobs/4442812009",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-swordhealth-4442812009&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-swordhealth-4442812009"
-  },
-  {
    "id": "ashby-n8n-062fa075-dbda-4bbf-b264-ac339d5ab9de",
    "company": "n8n",
    "title": "Technical Account Manager (Remote Europe)",
@@ -2048,17 +2009,17 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=ashby-n8n-0b21fdb3-006f-4cd3-98b1-68c33f5286fa&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=ashby-n8n-0b21fdb3-006f-4cd3-98b1-68c33f5286fa"
   },
   {
-   "id": "greenhouse-gocardless-8261533",
+   "id": "greenhouse-gocardless-8261531",
    "company": "GoCardless",
    "title": "Engineering Manager II",
-   "location": "London, UK; Lisbon; London; Riga",
+   "location": "Lisbon, Portugal; Lisbon; London; Riga",
    "posted": "2026-10-07",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8261533",
-   "apply_url": "https://job-boards.greenhouse.io/gocardless/jobs/8261533",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-gocardless-8261533&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-gocardless-8261533"
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8261531",
+   "apply_url": "https://job-boards.greenhouse.io/gocardless/jobs/8261531",
+   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-gocardless-8261531&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-gocardless-8261531"
   },
   {
    "id": "greenhouse-gocardless-8261497",
@@ -2074,17 +2035,17 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-gocardless-8261497&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-gocardless-8261497"
   },
   {
-   "id": "greenhouse-gocardless-8261531",
+   "id": "greenhouse-gocardless-8261533",
    "company": "GoCardless",
    "title": "Engineering Manager II",
-   "location": "Lisbon, Portugal; Lisbon; London; Riga",
+   "location": "London, UK; Lisbon; London; Riga",
    "posted": "2026-10-07",
    "posted_kind": "first_published",
    "ats": "greenhouse",
    "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8261531",
-   "apply_url": "https://job-boards.greenhouse.io/gocardless/jobs/8261531",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-gocardless-8261531&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-gocardless-8261531"
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8261533",
+   "apply_url": "https://job-boards.greenhouse.io/gocardless/jobs/8261533",
+   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-gocardless-8261533&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-gocardless-8261533"
   },
   {
    "id": "lever-farfetch-003d65a7-c7de-41d5-85fa-852417b53e45",
@@ -2480,7 +2441,7 @@
    "id": "greenhouse-cloudflare-8237119",
    "company": "Cloudflare",
    "title": "Customer Experience Manager - Hebrew Speaking",
-   "location": "Hybrid; Lisboa, Lisboa, Portugal",
+   "location": "Hybrid; Lisboa, Lisboa, Portugal; London, United Kingdom",
    "posted": "2026-09-28",
    "posted_kind": "first_published",
    "ats": "greenhouse",
@@ -2488,19 +2449,6 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8237119?gh_jid=8237119",
    "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8237119?gh_jid=8237119",
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-cloudflare-8237119&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-cloudflare-8237119"
-  },
-  {
-   "id": "greenhouse-swordhealth-4420795009",
-   "company": "Sword Health",
-   "title": "Clinical Sales Manager",
-   "location": "Hybrid - Lisbon",
-   "posted": "2026-09-25",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/swordhealth/jobs/4420795009",
-   "apply_url": "https://job-boards.greenhouse.io/swordhealth/jobs/4420795009",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-swordhealth-4420795009&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-swordhealth-4420795009"
   },
   {
    "id": "ashby-thought-machine-9de9bd6e-9375-418a-ae37-c1fc9097999a",
@@ -2685,19 +2633,6 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=ashby-zego-0bbef4ff-ec94-4872-ba6d-52bed7f7c362&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=ashby-zego-0bbef4ff-ec94-4872-ba6d-52bed7f7c362"
   },
   {
-   "id": "greenhouse-feverup-4983679101",
-   "company": "Fever",
-   "title": "Legal Counsel - Commercial/General",
-   "location": "Lisbon; Madrid",
-   "posted": "2026-09-23",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4983679101",
-   "apply_url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4983679101",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-feverup-4983679101&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-feverup-4983679101"
-  },
-  {
    "id": "greenhouse-feverup-4983681101",
    "company": "Fever",
    "title": "Legal Counsel - Commercial/General",
@@ -2709,6 +2644,19 @@
    "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4983681101",
    "apply_url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4983681101",
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-feverup-4983681101&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-feverup-4983681101"
+  },
+  {
+   "id": "greenhouse-feverup-4983679101",
+   "company": "Fever",
+   "title": "Legal Counsel - Commercial/General",
+   "location": "Lisbon; Madrid",
+   "posted": "2026-09-23",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-05",
+   "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4983679101",
+   "apply_url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4983679101",
+   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-feverup-4983679101&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-feverup-4983679101"
   },
   {
    "id": "greenhouse-elastic-8220142",
@@ -2906,19 +2854,6 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=ashby-thought-machine-038d625f-c07e-48ed-afcd-c92b23a02b64&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=ashby-thought-machine-038d625f-c07e-48ed-afcd-c92b23a02b64"
   },
   {
-   "id": "greenhouse-elastic-8195964",
-   "company": "Elastic",
-   "title": "Senior Information Security Infrastructure Engineer - Security Architecture - InfoSec",
-   "location": "Portugal; Spain",
-   "posted": "2026-09-11",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8195964&gh_jid=8195964",
-   "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8195964&gh_jid=8195964",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-elastic-8195964&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-elastic-8195964"
-  },
-  {
    "id": "greenhouse-cloudflare-8173954",
    "company": "Cloudflare",
    "title": "Senior Product Manager, Email Security",
@@ -2971,19 +2906,6 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-swordhealth-4401066009&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-swordhealth-4401066009"
   },
   {
-   "id": "ashby-paddle-7e0021cb-051f-4207-bb3c-2729bd1c2e34",
-   "company": "Paddle",
-   "title": "Director of Self Serve",
-   "location": "UK; Toronto; Portugal; Netherlands; Boston; Austin TX; Lisbon; Dublin",
-   "posted": "2026-09-10",
-   "posted_kind": "published",
-   "ats": "ashby",
-   "first_seen": "2026-11-05",
-   "url": "https://jobs.ashbyhq.com/paddle/7e0021cb-051f-4207-bb3c-2729bd1c2e34",
-   "apply_url": "https://jobs.ashbyhq.com/paddle/7e0021cb-051f-4207-bb3c-2729bd1c2e34",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=ashby-paddle-7e0021cb-051f-4207-bb3c-2729bd1c2e34&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=ashby-paddle-7e0021cb-051f-4207-bb3c-2729bd1c2e34"
-  },
-  {
    "id": "greenhouse-cloudflare-8185723",
    "company": "Cloudflare",
    "title": "Senior Engineering Manager - Network Connectivity",
@@ -3008,19 +2930,6 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8188468?gh_jid=8188468",
    "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8188468?gh_jid=8188468",
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-cloudflare-8188468&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-cloudflare-8188468"
-  },
-  {
-   "id": "greenhouse-swordhealth-4394521009",
-   "company": "Sword Health",
-   "title": "Staff AI Product Manager, Phoenix Platform",
-   "location": "Remote - Portugal",
-   "posted": "2026-09-09",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/swordhealth/jobs/4394521009",
-   "apply_url": "https://job-boards.greenhouse.io/swordhealth/jobs/4394521009",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-swordhealth-4394521009&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-swordhealth-4394521009"
   },
   {
    "id": "greenhouse-singlestore-8185122",
@@ -3114,6 +3023,19 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=ashby-pleo-d7516e92-0f65-4c11-9644-1ee2f34dc80f&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=ashby-pleo-d7516e92-0f65-4c11-9644-1ee2f34dc80f"
   },
   {
+   "id": "greenhouse-cloudflare-8169264",
+   "company": "Cloudflare",
+   "title": "Business Development Representative - French Speaking",
+   "location": "Hybrid; Lisboa, Lisboa, Portugal; Paris, Paris, France",
+   "posted": "2026-09-04",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-17",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8169264?gh_jid=8169264",
+   "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8169264?gh_jid=8169264",
+   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-cloudflare-8169264&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-cloudflare-8169264"
+  },
+  {
    "id": "ashby-n8n-79df05ec-9629-42d2-a612-06eeaaf2450f",
    "company": "n8n",
    "title": "Senior FP&A Manager - Marketing",
@@ -3140,19 +3062,6 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-five9-6180362004&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-five9-6180362004"
   },
   {
-   "id": "greenhouse-elastic-8173302",
-   "company": "Elastic",
-   "title": "Software Engineer II - EDR Workflows - Security",
-   "location": "Portugal; Spain",
-   "posted": "2026-09-02",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8173302&gh_jid=8173302",
-   "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8173302&gh_jid=8173302",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-elastic-8173302&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-elastic-8173302"
-  },
-  {
    "id": "greenhouse-cloudflare-8159206",
    "company": "Cloudflare",
    "title": "Network Security Engineer",
@@ -3177,19 +3086,6 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8164694?gh_jid=8164694",
    "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8164694?gh_jid=8164694",
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-cloudflare-8164694&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-cloudflare-8164694"
-  },
-  {
-   "id": "greenhouse-cloudflare-8143511",
-   "company": "Cloudflare",
-   "title": "Senior Engineering Manager - Fintech",
-   "location": "Hybrid; Austin, TX, United States; Lisboa, Lisboa, Portugal; London, United Kingdom; New York, New York, United States",
-   "posted": "2026-08-28",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8143511?gh_jid=8143511",
-   "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8143511?gh_jid=8143511",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-cloudflare-8143511&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-cloudflare-8143511"
   },
   {
    "id": "greenhouse-elastic-8162650",
@@ -3790,6 +3686,19 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-moniepoint-4912941101&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-moniepoint-4912941101"
   },
   {
+   "id": "lever-farfetch-49de7585-95ed-43a4-8ec3-5bcb07916395",
+   "company": "Farfetch",
+   "title": "Customer Operations Technician",
+   "location": "Porto",
+   "posted": "2026-06-26",
+   "posted_kind": "created",
+   "ats": "lever",
+   "first_seen": "2026-11-17",
+   "url": "https://jobs.lever.co/farfetch/49de7585-95ed-43a4-8ec3-5bcb07916395",
+   "apply_url": "https://jobs.lever.co/farfetch/49de7585-95ed-43a4-8ec3-5bcb07916395",
+   "fill_url": "https://jobalfred.com/go/?list=portugal&job=lever-farfetch-49de7585-95ed-43a4-8ec3-5bcb07916395&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=lever-farfetch-49de7585-95ed-43a4-8ec3-5bcb07916395"
+  },
+  {
    "id": "ashby-mollie-32a7c7bb-00c6-4a15-b114-65ad1025fbc7",
    "company": "Mollie",
    "title": "Senior Application Engineer",
@@ -3959,19 +3868,6 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-sumup-8511538002&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-sumup-8511538002"
   },
   {
-   "id": "greenhouse-sumup-8511537002",
-   "company": "SumUp",
-   "title": "Conseiller(ère) commercial(e) terrain expérimenté(e) - Indépendant",
-   "location": "Avignon, Vaucluse, France; Aix-en-Provence, Bouches-du-Rhône, France; Ajaccio, Corse-du-Sud, France; Antibes, Alpes-Maritimes, France; Arles, Bouches-du-Rhône, France; Bastia, Haute-Corse, France; Bouches-du-Rhône, France; Calvi, Haute-Corse, France; Cannes, Alpes-Maritimes, France; Marseille, Bouches-du-Rhône, France; Nice, Alpes-Maritimes, France; Porto-Vecchio, Corse-du-Sud, France; Saint-Tropez, Var, France",
-   "posted": "2026-04-17",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-05",
-   "url": "https://sumup.com/careers/positions/8511537002?gh_jid=8511537002",
-   "apply_url": "https://sumup.com/careers/positions/8511537002?gh_jid=8511537002",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-sumup-8511537002&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-sumup-8511537002"
-  },
-  {
    "id": "lever-veeva-44220a52-4b10-4fe7-9928-47d9e8b537ae",
    "company": "Veeva",
    "title": "Team Lead - ODC",
@@ -4063,19 +3959,6 @@
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-feedzai-7745616&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-feedzai-7745616"
   },
   {
-   "id": "greenhouse-gocardless-7699256",
-   "company": "GoCardless",
-   "title": "Analytics engineer",
-   "location": "Riga, Latvia; Lisbon; Riga",
-   "posted": "2026-03-16",
-   "posted_kind": "first_published",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-10",
-   "url": "https://job-boards.greenhouse.io/gocardless/jobs/7699256",
-   "apply_url": "https://job-boards.greenhouse.io/gocardless/jobs/7699256",
-   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-gocardless-7699256&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-gocardless-7699256"
-  },
-  {
    "id": "greenhouse-gocardless-7699254",
    "company": "GoCardless",
    "title": "Analytics engineer",
@@ -4087,6 +3970,19 @@
    "url": "https://job-boards.greenhouse.io/gocardless/jobs/7699254",
    "apply_url": "https://job-boards.greenhouse.io/gocardless/jobs/7699254",
    "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-gocardless-7699254&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-gocardless-7699254"
+  },
+  {
+   "id": "greenhouse-gocardless-7699256",
+   "company": "GoCardless",
+   "title": "Analytics engineer",
+   "location": "Riga, Latvia; Lisbon; Riga",
+   "posted": "2026-03-16",
+   "posted_kind": "first_published",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-10",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/7699256",
+   "apply_url": "https://job-boards.greenhouse.io/gocardless/jobs/7699256",
+   "fill_url": "https://jobalfred.com/go/?list=portugal&job=greenhouse-gocardless-7699256&utm_source=github&utm_medium=job_list&utm_campaign=portugal&utm_content=greenhouse-gocardless-7699256"
   },
   {
    "id": "greenhouse-cloudflare-7694407",

@@ -1,12 +1,27 @@
 {
  "list": "eu-visa-sponsorship",
  "title": "EU roles that state visa sponsorship",
- "built": "2026-11-16T13:37:29+00:00",
- "count": 33,
+ "built": "2026-11-17T14:22:26+00:00",
+ "count": 34,
  "licence": "CC-BY-4.0",
  "source_note": "Built only from official public job-board APIs: Greenhouse Job Board API, Lever Postings API and Ashby public job posting API. Job descriptions are read for matching and are not stored.",
  "disclaimer": "**Please confirm before you rely on this.** A posting saying it offers sponsorship is not a guarantee. Each row here quotes a posting that says so in its own words; JobAlfred never infers sponsorship and cannot see an employer's current policy. Confirm with the employer in writing that sponsorship applies to your role, your nationality and your country, before you resign, move or pay for anything. This is not immigration advice.",
  "jobs": [
+  {
+   "id": "ashby-n8n-240f952d-fa35-4268-b84e-c5697024dab8",
+   "company": "n8n",
+   "title": "Manager, Customer Success (Remote - EMEA)",
+   "location": "Berlin Office; Norway; Estonia; Netherlands; Hungary; Portugal; Poland; Germany; Austria; Finland; Lithuania; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece",
+   "posted": "2026-11-16",
+   "posted_kind": "published",
+   "ats": "ashby",
+   "first_seen": "2026-11-17",
+   "url": "https://jobs.ashbyhq.com/n8n/240f952d-fa35-4268-b84e-c5697024dab8",
+   "apply_url": "https://jobs.ashbyhq.com/n8n/240f952d-fa35-4268-b84e-c5697024dab8",
+   "fill_url": "https://jobalfred.com/go/?list=eu-visa-sponsorship&job=ashby-n8n-240f952d-fa35-4268-b84e-c5697024dab8&utm_source=github&utm_medium=job_list&utm_campaign=eu_visa&utm_content=ashby-n8n-240f952d-fa35-4268-b84e-c5697024dab8",
+   "country": "Germany",
+   "quote": "We can sponsor visas to Germany"
+  },
   {
    "id": "ashby-n8n-c9fc97fa-a473-4133-b3cb-502785649ecd",
    "company": "n8n",
@@ -220,7 +235,7 @@
   {
    "id": "ashby-n8n-6a343c1a-029e-420b-93f3-c4b547780629",
    "company": "n8n",
-   "title": "Large Enterprise Account Executive DACH (Remote DACH)",
+   "title": "Enterprise Account Executive, Major Accounts (DACH)",
    "location": "Germany; Austria",
    "posted": "2026-10-30",
    "posted_kind": "published",
