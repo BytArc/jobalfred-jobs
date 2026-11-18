@@ -1,35 +1,35 @@
 {
- "built": "2026-11-17T14:22:26+00:00",
+ "built": "2026-11-18T13:56:28+00:00",
  "boards": 228,
- "requests": 229,
+ "requests": 228,
  "boards_gone": [
   "greenhouse/parloa"
  ],
  "boards_failed": [],
  "lists": {
   "india-gcc": {
-   "open": 1068,
+   "open": 1081,
    "added": 53,
-   "removed_closed": 50,
+   "removed_closed": 40,
    "carried_after_fetch_error": 0,
    "companies": 85
   },
   "remote-eu": {
-   "open": 1001,
-   "added": 30,
-   "removed_closed": 44,
+   "open": 1012,
+   "added": 38,
+   "removed_closed": 27,
    "carried_after_fetch_error": 0,
-   "companies": 114
+   "companies": 112
   },
   "portugal": {
-   "open": 323,
-   "added": 6,
-   "removed_closed": 14,
+   "open": 321,
+   "added": 9,
+   "removed_closed": 11,
    "carried_after_fetch_error": 0,
    "companies": 38
   },
   "eu-visa-sponsorship": {
-   "open": 34,
+   "open": 35,
    "added": 1,
    "removed_closed": 0,
    "carried_after_fetch_error": 0,
