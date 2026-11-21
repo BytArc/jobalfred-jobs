@@ -1,7 +1,7 @@
 {
  "list": "eu-visa-sponsorship",
  "title": "EU roles that state visa sponsorship",
- "built": "2026-11-20T13:59:30+00:00",
+ "built": "2026-11-21T13:27:22+00:00",
  "count": 39,
  "licence": "CC-BY-4.0",
  "source_note": "Built only from official public job-board APIs: Greenhouse Job Board API, Lever Postings API and Ashby public job posting API. Job descriptions are read for matching and are not stored.",
@@ -221,7 +221,7 @@
    "id": "ashby-n8n-cc5ce6e0-5d50-4cfd-a522-4304dc09d29b",
    "company": "n8n",
    "title": "Head of Enterprise Product",
-   "location": "Berlin, Germany; Bosnia; Romania; Norway; Estonia; Latvia; Slovenia; Netherlands; Hungary; Portugal; Serbia; Germany; Finland; Albania; Lithuania; Slovakia; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece",
+   "location": "Berlin, Germany; Bosnia; Romania; Norway; Estonia; Latvia; Slovenia; Netherlands; Hungary; Portugal; Serbia; Germany; Austria; Finland; Albania; Lithuania; Slovakia; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece",
    "posted": "2026-11-11",
    "posted_kind": "published",
    "ats": "ashby",
