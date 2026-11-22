@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T13:27:22+00:00",
+ "built": "2026-11-22T13:19:55+00:00",
  "boards": 228,
  "requests": 228,
  "boards_gone": [
@@ -8,23 +8,23 @@
  "boards_failed": [],
  "lists": {
   "india-gcc": {
-   "open": 1084,
-   "added": 17,
-   "removed_closed": 18,
+   "open": 1083,
+   "added": 13,
+   "removed_closed": 14,
    "carried_after_fetch_error": 0,
    "companies": 85
   },
   "remote-eu": {
    "open": 1022,
-   "added": 14,
-   "removed_closed": 6,
+   "added": 5,
+   "removed_closed": 5,
    "carried_after_fetch_error": 0,
    "companies": 111
   },
   "portugal": {
    "open": 327,
-   "added": 6,
-   "removed_closed": 6,
+   "added": 0,
+   "removed_closed": 0,
    "carried_after_fetch_error": 0,
    "companies": 38
   },
