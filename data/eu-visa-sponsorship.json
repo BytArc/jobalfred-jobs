@@ -1,8 +1,8 @@
 {
  "list": "eu-visa-sponsorship",
  "title": "EU roles that state visa sponsorship",
- "built": "2026-11-24T15:52:22+00:00",
- "count": 38,
+ "built": "2026-11-25T15:35:03+00:00",
+ "count": 36,
  "licence": "CC-BY-4.0",
  "source_note": "Built only from official public job-board APIs: Greenhouse Job Board API, Lever Postings API and Ashby public job posting API. Job descriptions are read for matching and are not stored.",
  "disclaimer": "**Please confirm before you rely on this.** A posting saying it offers sponsorship is not a guarantee. Each row here quotes a posting that says so in its own words; JobAlfred never infers sponsorship and cannot see an employer's current policy. Confirm with the employer in writing that sponsorship applies to your role, your nationality and your country, before you resign, move or pay for anything. This is not immigration advice.",
@@ -115,7 +115,7 @@
   {
    "id": "ashby-n8n-79e4f4d1-41fa-45fd-acd7-7f305f018754",
    "company": "n8n",
-   "title": "Soultions Engineering Manager (EMEA)",
+   "title": "Solutions Engineering Manager (EMEA)",
    "location": "Germany; United Kingdom",
    "posted": "2026-11-18",
    "posted_kind": "published",
@@ -125,21 +125,6 @@
    "apply_url": "https://jobs.ashbyhq.com/n8n/79e4f4d1-41fa-45fd-acd7-7f305f018754",
    "fill_url": "https://jobalfred.com/go/?list=eu-visa-sponsorship&job=ashby-n8n-79e4f4d1-41fa-45fd-acd7-7f305f018754&utm_source=github&utm_medium=job_list&utm_campaign=eu_visa&utm_content=ashby-n8n-79e4f4d1-41fa-45fd-acd7-7f305f018754",
    "country": "Germany",
-   "quote": "We can sponsor visas to Germany"
-  },
-  {
-   "id": "ashby-n8n-01e97911-afbc-4d4b-bdc7-ea6cd5e51662",
-   "company": "n8n",
-   "title": "Enterprise Sales Leader",
-   "location": "United Kingdom; Netherlands; Germany; Ireland",
-   "posted": "2026-11-18",
-   "posted_kind": "published",
-   "ats": "ashby",
-   "first_seen": "2026-11-18",
-   "url": "https://jobs.ashbyhq.com/n8n/01e97911-afbc-4d4b-bdc7-ea6cd5e51662",
-   "apply_url": "https://jobs.ashbyhq.com/n8n/01e97911-afbc-4d4b-bdc7-ea6cd5e51662",
-   "fill_url": "https://jobalfred.com/go/?list=eu-visa-sponsorship&job=ashby-n8n-01e97911-afbc-4d4b-bdc7-ea6cd5e51662&utm_source=github&utm_medium=job_list&utm_campaign=eu_visa&utm_content=ashby-n8n-01e97911-afbc-4d4b-bdc7-ea6cd5e51662",
-   "country": "Netherlands",
    "quote": "We can sponsor visas to Germany"
   },
   {
@@ -220,7 +205,7 @@
   {
    "id": "ashby-n8n-fb5e4f97-a769-4b87-95f4-bdc5e4c3b031",
    "company": "n8n",
-   "title": "Lead Forward Deployed Engineer - EMEA",
+   "title": "Team Lead of Forward Deployment - EMEA",
    "location": "Germany; Bosnia; Norway; Estonia; Latvia; Slovenia; Netherlands; Hungary; Portugal; Poland; Serbia; Austria; Finland; Montenegro; Albania; Lithuania; Slovakia; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece",
    "posted": "2026-11-11",
    "posted_kind": "published",
@@ -274,21 +259,6 @@
    "url": "https://jobs.ashbyhq.com/n8n/24ad7d68-fac9-476c-b9fa-3410d73a6d7d",
    "apply_url": "https://jobs.ashbyhq.com/n8n/24ad7d68-fac9-476c-b9fa-3410d73a6d7d",
    "fill_url": "https://jobalfred.com/go/?list=eu-visa-sponsorship&job=ashby-n8n-24ad7d68-fac9-476c-b9fa-3410d73a6d7d&utm_source=github&utm_medium=job_list&utm_campaign=eu_visa&utm_content=ashby-n8n-24ad7d68-fac9-476c-b9fa-3410d73a6d7d",
-   "country": "Germany",
-   "quote": "We can sponsor visas to Germany"
-  },
-  {
-   "id": "ashby-n8n-12d3b685-95b1-4152-b611-c82cd581e8fb",
-   "company": "n8n",
-   "title": "Accountant",
-   "location": "Germany; Netherlands; Portugal; Poland; United Kingdom; Spain",
-   "posted": "2026-11-10",
-   "posted_kind": "published",
-   "ats": "ashby",
-   "first_seen": "2026-11-11",
-   "url": "https://jobs.ashbyhq.com/n8n/12d3b685-95b1-4152-b611-c82cd581e8fb",
-   "apply_url": "https://jobs.ashbyhq.com/n8n/12d3b685-95b1-4152-b611-c82cd581e8fb",
-   "fill_url": "https://jobalfred.com/go/?list=eu-visa-sponsorship&job=ashby-n8n-12d3b685-95b1-4152-b611-c82cd581e8fb&utm_source=github&utm_medium=job_list&utm_campaign=eu_visa&utm_content=ashby-n8n-12d3b685-95b1-4152-b611-c82cd581e8fb",
    "country": "Germany",
    "quote": "We can sponsor visas to Germany"
   },
@@ -475,7 +445,7 @@
   {
    "id": "ashby-n8n-da8c6a37-670d-4ad9-b5b3-898c395feee4",
    "company": "n8n",
-   "title": "Enterprise Sales Leader, DACH",
+   "title": "Sales Leader, Large Enterprise (DACH)",
    "location": "Germany",
    "posted": "2026-10-12",
    "posted_kind": "published",
@@ -485,7 +455,7 @@
    "apply_url": "https://jobs.ashbyhq.com/n8n/da8c6a37-670d-4ad9-b5b3-898c395feee4",
    "fill_url": "https://jobalfred.com/go/?list=eu-visa-sponsorship&job=ashby-n8n-da8c6a37-670d-4ad9-b5b3-898c395feee4&utm_source=github&utm_medium=job_list&utm_campaign=eu_visa&utm_content=ashby-n8n-da8c6a37-670d-4ad9-b5b3-898c395feee4",
    "country": "Germany",
-   "quote": "We can sponsor visas to Germany"
+   "quote": "Visa sponsorship is available for Germany only"
   },
   {
    "id": "ashby-n8n-062fa075-dbda-4bbf-b264-ac339d5ab9de",
@@ -521,7 +491,7 @@
    "id": "ashby-n8n-dbc78a40-2efd-43ca-bb33-fb7cb0583cb8",
    "company": "n8n",
    "title": "Sales Development Representative DACH",
-   "location": "Germany",
+   "location": "Berlin, Germany",
    "posted": "2026-09-23",
    "posted_kind": "published",
    "ats": "ashby",

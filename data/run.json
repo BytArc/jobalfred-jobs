@@ -1,40 +1,41 @@
 {
- "built": "2026-11-24T15:52:22+00:00",
+ "built": "2026-11-25T15:35:03+00:00",
  "boards": 228,
  "requests": 228,
  "boards_gone": [
+  "ashby/farfetch",
   "greenhouse/parloa"
  ],
  "boards_failed": [],
  "lists": {
   "india-gcc": {
-   "open": 1065,
-   "added": 36,
-   "removed_closed": 47,
+   "open": 1073,
+   "added": 57,
+   "removed_closed": 49,
    "carried_after_fetch_error": 0,
    "companies": 83
   },
   "remote-eu": {
-   "open": 1031,
-   "added": 43,
-   "removed_closed": 32,
+   "open": 1020,
+   "added": 26,
+   "removed_closed": 37,
    "carried_after_fetch_error": 0,
-   "companies": 110
+   "companies": 109
   },
   "portugal": {
    "open": 312,
-   "added": 6,
-   "removed_closed": 15,
+   "added": 10,
+   "removed_closed": 10,
    "carried_after_fetch_error": 0,
    "companies": 38
   },
   "eu-visa-sponsorship": {
-   "open": 38,
+   "open": 36,
    "added": 0,
-   "removed_closed": 1,
+   "removed_closed": 2,
    "carried_after_fetch_error": 0,
    "companies": 2,
-   "conditional_not_counted": 21
+   "conditional_not_counted": 22
   }
  }
 }
