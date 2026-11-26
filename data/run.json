@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T15:35:03+00:00",
+ "built": "2026-11-26T15:12:17+00:00",
  "boards": 228,
  "requests": 228,
  "boards_gone": [
@@ -9,33 +9,33 @@
  "boards_failed": [],
  "lists": {
   "india-gcc": {
-   "open": 1073,
-   "added": 57,
-   "removed_closed": 49,
+   "open": 1077,
+   "added": 45,
+   "removed_closed": 41,
    "carried_after_fetch_error": 0,
    "companies": 83
   },
   "remote-eu": {
-   "open": 1020,
-   "added": 26,
-   "removed_closed": 37,
+   "open": 1019,
+   "added": 27,
+   "removed_closed": 28,
    "carried_after_fetch_error": 0,
-   "companies": 109
+   "companies": 106
   },
   "portugal": {
    "open": 312,
-   "added": 10,
-   "removed_closed": 10,
+   "added": 9,
+   "removed_closed": 9,
    "carried_after_fetch_error": 0,
-   "companies": 38
+   "companies": 37
   },
   "eu-visa-sponsorship": {
-   "open": 36,
-   "added": 0,
-   "removed_closed": 2,
+   "open": 37,
+   "added": 1,
+   "removed_closed": 0,
    "carried_after_fetch_error": 0,
    "companies": 2,
-   "conditional_not_counted": 22
+   "conditional_not_counted": 23
   }
  }
 }
